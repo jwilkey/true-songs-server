@@ -82,4 +82,11 @@ router.post('/songs/upload', (req, res, next) => {
 //   })
 // })
 
+// Bible
+
+router.get('/bible/versions', (req, res, next) => {
+  const dbtService = require('../helpers/dbt_service.js')
+  res.json(dbtService.versions())
+})
+
 module.exports = router
