@@ -98,6 +98,7 @@ helper.createSong = function (fields) {
       'passage':  fields.passage,
       'artist': fields.artist,
       'book': fields.passage.split('.')[0],
+      'bible_version': fields.version,
       'key': fields.key
     }
   }
