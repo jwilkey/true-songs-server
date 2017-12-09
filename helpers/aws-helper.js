@@ -7,11 +7,7 @@ var helper = {}
 helper.loadAllSongs = function () {
   configureDynamoDb()
   var params = {
-    TableName: 'Songs',
-    ProjectionExpression: 'passage, artist, book, #k',
-    ExpressionAttributeNames: {
-        '#k': 'key',
-    }
+    TableName: 'Songs'
   }
 
   var docClient = new AWS.DynamoDB.DocumentClient()
