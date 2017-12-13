@@ -5,9 +5,11 @@ var logger = require('morgan')
 var cookieParser = require('cookie-parser')
 var cors = require('cors')
 var bodyParser = require('body-parser')
+var session = require('express-session')
+var passport = require('passport')
 
 var index = require('./routes/index')
-var users = require('./routes/users')
+var auth = require('./routes/auth')
 
 var app = express()
 
@@ -22,23 +24,16 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(cookieParser())
 app.use(express.static(path.join(__dirname, 'public')))
+app.use(session({ secret: 'anything' }))
+app.use(passport.initialize())
+app.use(passport.session())
+const appCors = require('./configuration/app-cors.js')
 
 // cors
-var whitelist = ['http://localhost:8855', 'https://songs.truewordsapp.com']
-var corsOptions = {
-  origin: function (origin, callback) {
-    if (whitelist.indexOf(origin) !== -1) {
-      callback(null, true)
-    } else {
-      callback(new Error('Not allowed by CORS'))
-    }
-  }
-}
 app.options('*', cors())
-app.use(cors(corsOptions))
 
-app.use('/', index)
-app.use('/users', users)
+app.use('/', cors(appCors.baseCors), index)
+app.use('/auth', auth)
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

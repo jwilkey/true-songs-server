@@ -11,6 +11,10 @@ router.get('/', (req, res, next) => {
   res.render('index', { title: 'True Songs Server' })
 })
 
+router.get('/user', (req, res) => {
+  res.json(req.user)
+})
+
 router.get('/songs', (req, res, next) => {
   awsHelper.loadAllSongs()
   .then(response => {
