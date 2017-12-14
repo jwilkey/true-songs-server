@@ -14,9 +14,11 @@ passport.use(
   },
   (accessToken, refreshToken, profile, done) => {
     const user = {
+      id: `google-${profile.id}`,
       name: profile.displayName,
       email: profile.emails.find(e => e.type === 'account').value,
-      image: (profile.photos[0] || {}).value
+      image: (profile.photos[0] || {}).value,
+      source: 'google'
     }
     done(null, user)
   }

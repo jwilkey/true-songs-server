@@ -88,10 +88,13 @@ helper.uploadSongFile = function (fileStream, filename, encoding, mimeType) {
 
 helper.createSong = function (fields) {
   configureDynamoDb()
+
+  const time = new Date().toISOString()
   var params = {
     TableName: 'Songs',
     Item: {
       'passage':  fields.passage,
+      'uploadedAt': time,
       'artist': fields.artist,
       'book': fields.passage.split('.')[0],
       'bible_version': fields.version,
@@ -119,11 +122,11 @@ helper.createSongsTable = function () {
     TableName : 'Songs',
     KeySchema: [
       { AttributeName: 'passage', KeyType: 'HASH'},
-      { AttributeName: 'artist', KeyType: 'RANGE' }
+      { AttributeName: 'uploadedAt', KeyType: 'RANGE' }
     ],
     AttributeDefinitions: [
       { AttributeName: 'passage', AttributeType: 'S' },
-      { AttributeName: 'artist', AttributeType: 'S' }
+      { AttributeName: 'uploadedAt', AttributeType: 'S' }
     ],
     ProvisionedThroughput: {
       ReadCapacityUnits: 10,
