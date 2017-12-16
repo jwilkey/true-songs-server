@@ -5,6 +5,7 @@ const urlEncodedParser = bodyParser.urlencoded({ extended: true })
 const awsHelper = require('../helpers/aws-helper.js')
 var fs = require('fs')
 var Busboy = require('busboy')
+var cors = require('cors')
 
 /* GET home page. */
 router.get('/', (req, res, next) => {
@@ -35,13 +36,18 @@ router.get('/songs/:key', (req, res, next) => {
 })
 
 router.delete('/songs', (req, res, next) => {
-  awsHelper.deleteSong(req.query.passage, req.query.uploadedAt, req.query.key)
-  .then(response => {
-    res.json({success: true})
-  })
-  .catch(err => {
-    res.status(500).send('Unable to delete song')
-  })
+  if (req.user) {
+    awsHelper.deleteSong(req.query.passage, req.query.uploadedAt, req.query.key, req.user.id)
+    .then(response => {
+      res.json({success: true})
+    })
+    .catch(err => {
+      console.log(err)
+      res.sendStatus(500).send('Unable to delete song')
+    })
+  } else {
+    res.sendStatus(401)
+  }
 })
 
 function createSongRecord (res, fields) {

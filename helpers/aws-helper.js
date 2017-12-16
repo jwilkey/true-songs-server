@@ -114,14 +114,21 @@ helper.createSong = function (fields) {
   })
 }
 
-helper.deleteSong = function (passage, uploadedAt, key) {
+helper.deleteSong = function (passage, uploadedAt, key, userId) {
   configureDynamoDb()
 
   var docClient = new AWS.DynamoDB.DocumentClient()
 
   var params = {
     TableName: 'Songs',
-    Key: { 'passage': passage, 'uploadedAt': uploadedAt }
+    Key: { 'passage': passage, 'uploadedAt': uploadedAt },
+    ConditionExpression:'#usr = :val',
+    ExpressionAttributeNames:{
+        "#usr": "user"
+    },
+    ExpressionAttributeValues: {
+      ':val': userId
+    }
   }
 
   return new Promise((resolve, reject) => {

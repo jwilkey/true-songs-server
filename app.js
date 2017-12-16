@@ -30,7 +30,7 @@ app.use(passport.session())
 const appCors = require('./configuration/app-cors.js')
 
 // cors
-app.options('*', cors())
+app.options('*', cors(appCors.baseCors))
 
 app.use('/', cors(appCors.baseCors), index)
 app.use('/auth', auth)
