@@ -114,6 +114,32 @@ helper.createSong = function (fields) {
   })
 }
 
+helper.deleteSong = function (passage, uploadedAt, key) {
+  configureDynamoDb()
+
+  var docClient = new AWS.DynamoDB.DocumentClient()
+
+  var params = {
+    TableName: 'Songs',
+    Key: { 'passage': passage, 'uploadedAt': uploadedAt }
+  }
+
+  return new Promise((resolve, reject) => {
+    docClient.delete(params, (err, data) => {
+      if (err) {
+        reject(err)
+      } else {
+        configureS3()
+        var s3 = new AWS.S3()
+        var params = { Bucket: 'truesongs', Key: key }
+        s3.deleteObject(params, (err, data) => {
+          err ? reject(err) : resolve(data)
+        })
+      }
+    })
+  })
+}
+
 // INITIALIZATION
 
 helper.createSongsTable = function () {

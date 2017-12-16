@@ -34,6 +34,16 @@ router.get('/songs/:key', (req, res, next) => {
   })
 })
 
+router.delete('/songs', (req, res, next) => {
+  awsHelper.deleteSong(req.query.passage, req.query.uploadedAt, req.query.key)
+  .then(response => {
+    res.json({success: true})
+  })
+  .catch(err => {
+    res.status(500).send('Unable to delete song')
+  })
+})
+
 function createSongRecord (res, fields) {
   awsHelper.createSong(fields)
   .then(response => {
