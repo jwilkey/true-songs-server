@@ -10,26 +10,27 @@ const helper = {
   versions () {
     return dbtVersions
   },
-  fetch (bookId, chapter) {
-    const base = 'https://dbt.io/text/verse'
+  fetch (damId, osis) {
+    const base = 'http://dbt.io/text/verse'
     const key = process.env.DBT_KEY
-    const url = `${base}?dam_id=GRKEPTN1ET&book_id=${bookId}&v=2&key=${key}`
+    const range = osis.split('-')
+    const parts = range[0].split('.')
+    const book = parts[0]
+    const chapter = parts[1]
+    const verseStart = parts[2]
+    const verseEnd = range.length === 2 ? range[1].split('.')[2] : verseStart
+    const url = `${base}?dam_id=${damId}&book_id=${book}&chapter_id=${chapter}&verse_start=${verseStart}&verse_end=${verseEnd}&v=2&key=${key}`
 
-    return axios.get(url)
-    .then(response => {
-      const text = response.data
-      .map(verse => {
-        const chapter = parseChapter(verse)
-        return `${chapter}${verse.verse_id}] ${verse.verse_text.replace(' \n\t\t\t', '')}`
-      }).join(' ')
-
-      const words = text.split(/(\s)/g).map(word => {
-        return word === '\n'
-        ? {word, status: 'break'}
-        : {word, status: ''}
+    return new Promise((resolve, reject) => {
+      const request = require('request')
+      request(url, (error, response, body) => {
+        if (!error && response.statusCode == 200) {
+          resolve(JSON.parse(body))
+        } else {
+          console.log(body)
+          reject(error)
+        }
       })
-
-      return words
     })
   }
 }

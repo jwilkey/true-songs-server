@@ -10,6 +10,7 @@ var passport = require('passport')
 
 var index = require('./routes/index')
 var auth = require('./routes/auth')
+var bibleRoutes = require('./routes/bible')
 
 var app = express()
 
@@ -34,6 +35,7 @@ app.options('*', cors(appCors.baseCors))
 
 app.use('/', cors(appCors.baseCors), index)
 app.use('/auth', auth)
+app.use('/bible', bibleRoutes)
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

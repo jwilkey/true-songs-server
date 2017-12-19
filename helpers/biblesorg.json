@@ -1,0 +1,2988 @@
+{
+  "English": [
+    {
+      "title": "Amplified Bible",
+      "versionCode": "AMP",
+      "language": "English (US)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-AMP",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Contemporary English Version (US Version)",
+      "versionCode": "CEV",
+      "language": "English (US)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-CEV",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Contemporary English Version (US Version)",
+      "versionCode": "CEVD",
+      "language": "English (US)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-CEVD",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Contemporary English Version (Anglicised Version)",
+      "versionCode": "CEVUK",
+      "language": "English (British)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-CEVUK",
+      "source": "biblesorg"
+    },
+    {
+      "title": "English Standard Version",
+      "versionCode": "ESV",
+      "language": "English (US)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-ESV",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Good News Bible (Anglicised)",
+      "versionCode": "GNBDC",
+      "language": "English (British)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-GNBDC",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Good News Translation (US Version)",
+      "versionCode": "GNTD",
+      "language": "English (US)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-GNTD",
+      "source": "biblesorg"
+    },
+    {
+      "title": "King James Version",
+      "versionCode": "KJV",
+      "language": "English (British)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-KJV",
+      "source": "biblesorg"
+    },
+    {
+      "title": "King James Version with Apocrypha, American Edition",
+      "versionCode": "KJVA",
+      "language": "English (US)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-KJVA",
+      "source": "biblesorg"
+    },
+    {
+      "title": "The Message",
+      "versionCode": "MSG",
+      "language": "English (US)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-MSG",
+      "source": "biblesorg"
+    },
+    {
+      "title": "New American Standard Bible",
+      "versionCode": "NASB",
+      "language": "English (US)",
+      "languageEng": "English",
+      "id": "biblesorg-eng-NASB",
+      "source": "biblesorg"
+    }
+  ],
+  "Arifama-Miniafia": [
+    {
+      "title": "Tur gewasin o baibasit boubun",
+      "versionCode": "AAINT",
+      "language": "Arifama-Miniafia",
+      "languageEng": "Arifama-Miniafia",
+      "id": "biblesorg-aai-AAINT",
+      "source": "biblesorg"
+    }
+  ],
+  "Abau": [
+    {
+      "title": "God so Sokior-ok Iwon",
+      "versionCode": "AAUNT",
+      "language": "Abau",
+      "languageEng": "Abau",
+      "id": "biblesorg-aau-AAUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Ambulas": [
+    {
+      "title": "Gotna Kudi",
+      "versionCode": "ABTNT",
+      "language": "Ambulas",
+      "languageEng": "Ambulas",
+      "id": "biblesorg-abt-ABTNT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Gotna kundi",
+      "versionCode": "ABTWNT",
+      "language": "Ambulas",
+      "languageEng": "Ambulas",
+      "id": "biblesorg-abt-ABTWNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Aneme Wake": [
+    {
+      "title": "Godinu irau wake",
+      "versionCode": "ABYNT",
+      "language": "Aneme Wake",
+      "languageEng": "Aneme Wake",
+      "id": "biblesorg-aby-ABYNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Saint Lucian Creole French": [
+    {
+      "title": "Tèstèman nèf-la: Épi an posyòn an liv samz-la",
+      "versionCode": "ACFNT",
+      "language": "Saint Lucian Creole French",
+      "languageEng": "Saint Lucian Creole French",
+      "id": "biblesorg-acf-ACFNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Achi": [
+    {
+      "title": "Ri utzilaj tzij re ri kanimajawal Jesucristo",
+      "versionCode": "ACRNNT",
+      "language": "Achi'",
+      "languageEng": "Achi",
+      "id": "biblesorg-acr-ACRNNT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "I 'utz laj tzij re i dios",
+      "versionCode": "ACRNT",
+      "language": "Achi'",
+      "languageEng": "Achi",
+      "id": "biblesorg-acr-ACRNT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Ri utzilaj tzij re ri kanimajawal Jesucristo",
+      "versionCode": "ACRTNT",
+      "language": "Achi'",
+      "languageEng": "Achi",
+      "id": "biblesorg-acr-ACRTNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Achuar-Shiwiar": [
+    {
+      "title": "Yuse chichame aarmauri; Yaanchuik, Chicham; Yamaram Chicham",
+      "versionCode": "ACUNT",
+      "language": "Achuar-Shiwiar",
+      "languageEng": "Achuar-Shiwiar",
+      "id": "biblesorg-acu-ACUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Aguaruna": [
+    {
+      "title": "Yamajam chicham apajuinu",
+      "versionCode": "AGRNT",
+      "language": "Aguaruna",
+      "languageEng": "Aguaruna",
+      "id": "biblesorg-agr-AGRNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Aguacateco": [
+    {
+      "title": "Yi Antiw Bible / Yi Ac'aj Testament",
+      "versionCode": "AGUBI",
+      "language": "Aguacateco",
+      "languageEng": "Aguacateco",
+      "id": "biblesorg-agu-AGUBI",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Yi Antiw Testament / Yi Ac'aj Testament",
+      "versionCode": "AGUNT",
+      "language": "Aguacateco",
+      "languageEng": "Aguacateco",
+      "id": "biblesorg-agu-AGUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Akawaio": [
+    {
+      "title": "Wakʉ Itekare: Emenna' Pe Ekonekan Nɨto'",
+      "versionCode": "AKENT",
+      "language": "Akawaio",
+      "languageEng": "Akawaio",
+      "id": "biblesorg-ake-AKENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Alune": [
+    {
+      "title": "Janji beluke",
+      "versionCode": "ALPNT",
+      "language": "Alune",
+      "languageEng": "Alune",
+      "id": "biblesorg-alp-ALPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Yanesha'": [
+    {
+      "title": "Yompor Poʼñoñ ñeñt ̃ attõ Yepartseshar Jesucristo eʼñe etserra aʼpoctaterrnay Yomporesho",
+      "versionCode": "AMENT",
+      "language": "Yanesha'",
+      "languageEng": "Yanesha'",
+      "id": "biblesorg-ame-AMENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Amarakaeri": [
+    {
+      "title": "Jesucristo oy oa’pak: Kenda Jesucristoa; monigka’uyatenok; Diostaj mo’manopo’yarea’ika’ne",
+      "versionCode": "AMRNT",
+      "language": "Amarakaeri",
+      "languageEng": "Amarakaeri",
+      "id": "biblesorg-amr-AMRNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Guerrero Amuzgo": [
+    {
+      "title": "Ñʼoom xco na tqueⁿ tyʼo̱o̱tsʼom cantxja ʼnaaʼ Jesucristo",
+      "versionCode": "AMUNT",
+      "language": "Guerrero Amuzgo",
+      "languageEng": "Guerrero Amuzgo",
+      "id": "biblesorg-amu-AMUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Denya": [
+    {
+      "title": "Ŋwɛ menomenyɛɛ́ mekɛ́",
+      "versionCode": "ANVNT",
+      "language": "Denya",
+      "languageEng": "Denya",
+      "id": "biblesorg-anv-ANVNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Apinayé": [
+    {
+      "title": "Tĩrtũm kapẽr ã kagà nyw",
+      "versionCode": "APNNT",
+      "language": "Apinayé",
+      "languageEng": "Apinayé",
+      "id": "biblesorg-apn-APNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Apurinã": [
+    {
+      "title": "Teoso sãkire amaneri",
+      "versionCode": "APUNT",
+      "language": "Apurinã",
+      "languageEng": "Apurinã",
+      "id": "biblesorg-apu-APUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Western Apache": [
+    {
+      "title": "The New Testament of our Lord and Saviour Jesus Christ",
+      "versionCode": "APWNT",
+      "language": "Western Apache",
+      "languageEng": "Western Apache",
+      "id": "biblesorg-apw-APWNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Apalaí": [
+    {
+      "title": "Ritonõpo Omiry",
+      "versionCode": "APYNT",
+      "language": "Apalaí",
+      "languageEng": "Apalaí",
+      "id": "biblesorg-apy-APYNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Arabela": [
+    {
+      "title": "Quiarinio pueyaso rupaa pa jiyaniijia Jesucristojiniji pueyano rupaajinia",
+      "versionCode": "ARLNT",
+      "language": "Arabela",
+      "languageEng": "Arabela",
+      "id": "biblesorg-arl-ARLNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mapuche": [
+    {
+      "title": "Ngünechen ñi Küme Dungu",
+      "versionCode": "ARNNT",
+      "language": "Mapudungun",
+      "languageEng": "Mapuche",
+      "id": "biblesorg-arn-ARNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Waorani": [
+    {
+      "title": "Wængonguï nänö Apæ̈negaïnö",
+      "versionCode": "AUCNT",
+      "language": "Waorani",
+      "languageEng": "Waorani",
+      "id": "biblesorg-auc-AUCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Awiyaana": [
+    {
+      "title": "Aú-aai símai kááisamakain-aai",
+      "versionCode": "AUYNT",
+      "language": "Awiyaana",
+      "languageEng": "Awiyaana",
+      "id": "biblesorg-auy-AUYNT",
+      "source": "biblesorg"
+    }
+  ],
+  "San Pedro Amuzgos Amuzgo": [
+    {
+      "title": "Jnʼoon xco na tquen tyoʼtsʼon",
+      "versionCode": "AZGNT",
+      "language": "San Pedro Amuzgos Amuzgo",
+      "languageEng": "San Pedro Amuzgos Amuzgo",
+      "id": "biblesorg-azg-AZGNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Highland Puebla Nahuatl": [
+    {
+      "title": "In cuali tajtoltzin de Dios",
+      "versionCode": "AZZNT",
+      "language": "Highland Puebla Nahuatl",
+      "languageEng": "Highland Puebla Nahuatl",
+      "id": "biblesorg-azz-AZZNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Waimaha": [
+    {
+      "title": "U̶mʉreco pacʉ wederique",
+      "versionCode": "BAONT",
+      "language": "Waimaha",
+      "languageEng": "Waimaha",
+      "id": "biblesorg-bao-BAONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Binumarien": [
+    {
+      "title": "Fúka Moodaanaki Kira Ufa Afaqínaasa Ufa",
+      "versionCode": "BJRNT",
+      "language": "Binumarien",
+      "languageEng": "Binumarien",
+      "id": "biblesorg-bjr-BJRNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Bedjond": [
+    {
+      "title": "KƗLӘ-MƗNDƗ KƗ SƗGƗ",
+      "versionCode": "BJVNT",
+      "language": "Bedjond",
+      "languageEng": "Bedjond",
+      "id": "biblesorg-bjv-BJVNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Bakairí": [
+    {
+      "title": "Deus Itaumbyry",
+      "versionCode": "BKQNT",
+      "language": "Bakairí",
+      "languageEng": "Bakairí",
+      "id": "biblesorg-bkq-BKQNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Balantak": [
+    {
+      "title": "Kitap molinas men ringkat na alaata'ala: perjanjian baru",
+      "versionCode": "BLZNT",
+      "language": "Balantak",
+      "languageEng": "Balantak",
+      "id": "biblesorg-blz-BLZNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Muinane": [
+    {
+      "title": "Moocaani iijɨ",
+      "versionCode": "BMRNT",
+      "language": "Muinane",
+      "languageEng": "Muinane",
+      "id": "biblesorg-bmr-BMRNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Bola": [
+    {
+      "title": "A Nitana Vure",
+      "versionCode": "bnpNTpo",
+      "language": "Bola",
+      "languageEng": "Bola",
+      "id": "biblesorg-bnp-BNPNTP",
+      "source": "biblesorg"
+    }
+  ],
+  "Bora": [
+    {
+      "title": "Píívyéébé ihjyu: jetsocríjyodítyú cáátúnuháámɨ",
+      "versionCode": "BOANT",
+      "language": "Bora",
+      "languageEng": "Bora",
+      "id": "biblesorg-boa-BOANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Buamu": [
+    {
+      "title": "Dónbeenì páaníi fĩnle vũahṹ",
+      "versionCode": "BOXNT",
+      "language": "Buamu",
+      "languageEng": "Buamu",
+      "id": "biblesorg-box-BOXNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Barasana-Eduria": [
+    {
+      "title": "Dios oca gotirituti",
+      "versionCode": "BSNNT",
+      "language": "Barasana-Eduria",
+      "languageEng": "Barasana-Eduria",
+      "id": "biblesorg-bsn-BSNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Akoose": [
+    {
+      "title": "Melɛ̌ Mékɔ̄ɔ̄lē",
+      "versionCode": "BSSNT",
+      "language": "Akoose",
+      "languageEng": "Akoose",
+      "id": "biblesorg-bss-BSSNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Bribri": [
+    {
+      "title": "Tte Pa̱ꞌa̱li̱ Meꞌ Skëköl tö Seꞌ a̱",
+      "versionCode": "BZDNT",
+      "language": "Bribri",
+      "languageEng": "Bribri",
+      "id": "biblesorg-bzd-BZDNT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Tte Pa̱'a̱li̱ Me' Skëköl tö Se' a̱",
+      "versionCode": "BZDNTPO",
+      "language": "Bribri",
+      "languageEng": "Bribri",
+      "id": "biblesorg-bzd-BZDNTPO",
+      "source": "biblesorg"
+    }
+  ],
+  "Belize Kriol English": [
+    {
+      "title": "Di Nyoo Testiment eena Bileez Kriol",
+      "versionCode": "BZJNT",
+      "language": "Belize Kriol English",
+      "languageEng": "Belize Kriol English",
+      "id": "biblesorg-bzj-BZJNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Chortí": [
+    {
+      "title": "E ojroner xe' imb' utz tua' Cawinquirar Jesucristo",
+      "versionCode": "CAANT",
+      "language": "Chortí",
+      "languageEng": "Chortí",
+      "id": "biblesorg-caa-CAANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Garifuna": [
+    {
+      "title": "Lerérun Búngiu To Lánina Iséri Darádu",
+      "versionCode": "CABNT",
+      "language": "Garifuna",
+      "languageEng": "Garifuna",
+      "id": "biblesorg-cab-CABNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Southern Carrier": [
+    {
+      "title": "Yakʼusda bughunek: k’andit khunek neba lhaidinla",
+      "versionCode": "CAFNT",
+      "language": "Southern Carrier",
+      "languageEng": "Southern Carrier",
+      "id": "biblesorg-caf-CAFNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Cakchiquel": [
+    {
+      "title": "Ri C'ac'a Trato ri Xuben ri Dios Quiq'uin ri Vinek",
+      "versionCode": "CAKCNT",
+      "language": "Cakchiquel",
+      "languageEng": "Cakchiquel",
+      "id": "biblesorg-cak-CAKCNT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "RI DIOS NCH'O PA KACH'ABÜL CHEKE",
+      "versionCode": "CAKENT",
+      "language": "Cakchiquel",
+      "languageEng": "Cakchiquel",
+      "id": "biblesorg-cak-CAKENT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Ri c'ac'ac' Testamento pa kach'ab'al",
+      "versionCode": "CAKSNT",
+      "language": "Cakchiquel",
+      "languageEng": "Cakchiquel",
+      "id": "biblesorg-cak-CAKSNT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Ri C'ac'ac' Testamento pa Kach'abel",
+      "versionCode": "CAKWNT",
+      "language": "Cakchiquel",
+      "languageEng": "Cakchiquel",
+      "id": "biblesorg-cak-CAKWNT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Re C'ac'a Testamento pa Kach'abal",
+      "versionCode": "CAKYNT",
+      "language": "Cakchiquel",
+      "languageEng": "Cakchiquel",
+      "id": "biblesorg-cak-CAKYNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Chácobo": [
+    {
+      "title": "Dios Chani",
+      "versionCode": "CAONT",
+      "language": "Chácobo",
+      "languageEng": "Chácobo",
+      "id": "biblesorg-cao-CAONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Chipaya": [
+    {
+      "title": "Ew Testamento: Chipay Tawkquiztan",
+      "versionCode": "CAPNT",
+      "language": "Puquina",
+      "languageEng": "Chipaya",
+      "id": "biblesorg-cap-CAPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Galibi Carib": [
+    {
+      "title": "Asery Tamusi karetary",
+      "versionCode": "CARNT",
+      "language": "Galibi Carib",
+      "languageEng": "Galibi Carib",
+      "id": "biblesorg-car-CARNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Cavineña": [
+    {
+      "title": "Yusuja Quisarati",
+      "versionCode": "CAVNT",
+      "language": "Cavineña",
+      "languageEng": "Cavineña",
+      "id": "biblesorg-cav-CAVNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Chiquitano": [
+    {
+      "title": "Manitanati Tuparrü",
+      "versionCode": "CAXNT",
+      "language": "Chiquitano",
+      "languageEng": "Chiquitano",
+      "id": "biblesorg-cax-CAXNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Carapana": [
+    {
+      "title": "Dios Cʉ̃ Cauetibʉjʉ Cũrĩcã Tuti",
+      "versionCode": "CBCNT",
+      "language": "Carapana",
+      "languageEng": "Carapana",
+      "id": "biblesorg-cbc-CBCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Chachi": [
+    {
+      "title": "Diosa' kiika; Génesis, Éxodo y El Nuevo Testamento",
+      "versionCode": "CBINTPO",
+      "language": "Chachi",
+      "languageEng": "Chachi",
+      "id": "biblesorg-cbi-CBINTPO",
+      "source": "biblesorg"
+    }
+  ],
+  "Cashibo-Cacataibo": [
+    {
+      "title": "Nukën 'Ibu Diosan ain unikama 'inan ain bana",
+      "versionCode": "CBRNT",
+      "language": "Cashibo-Cacataibo",
+      "languageEng": "Cashibo-Cacataibo",
+      "id": "biblesorg-cbr-CBRNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Cashinahua": [
+    {
+      "title": "Diosun Jesúswen taexun yuba bena yiniki",
+      "versionCode": "CBSNT",
+      "language": "Cashinahua",
+      "languageEng": "Cashinahua",
+      "id": "biblesorg-cbs-CBSNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Chayahuita": [
+    {
+      "title": "Yosë nanamën",
+      "versionCode": "CBTNT",
+      "language": "Chayahuita",
+      "languageEng": "Chayahuita",
+      "id": "biblesorg-cbt-CBTNTPO",
+      "source": "biblesorg"
+    }
+  ],
+  "Candoshi-Shapra": [
+    {
+      "title": "Apanlli Kuku",
+      "versionCode": "CBUNT",
+      "language": "Candoshi-Shapra",
+      "languageEng": "Candoshi-Shapra",
+      "id": "biblesorg-cbu-CBUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Comaltepec Chinantec": [
+    {
+      "title": "Júu ʼmɨ́ɨ e cacuo fidiée",
+      "versionCode": "CCONT",
+      "language": "Comaltepec Chinantec",
+      "languageEng": "Comaltepec Chinantec",
+      "id": "biblesorg-cco-CCONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Highland Oaxaca Chontal": [
+    {
+      "title": "Lataiquiʼ loyaʼapa iƚe al cʼa lixpicʼepa L̵anDios",
+      "versionCode": "CHDNT",
+      "language": "Highland Oaxaca Chontal",
+      "languageEng": "Highland Oaxaca Chontal",
+      "id": "biblesorg-chd-CHDNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tabasco Chontal": [
+    {
+      "title": "U Chʼuʼul Tʼan Dios (El Nuevo Testamento de nuestro señor Jesucristo en chontal de Tabasco)",
+      "versionCode": "CHFNT",
+      "language": "Tabasco Chontal",
+      "languageEng": "Tabasco Chontal",
+      "id": "biblesorg-chf-CHFNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quiotepec Chinantec": [
+    {
+      "title": "Juu³ tyʉ² ʼe gafaaʼ²¹ Dios tyaʼ tsá²",
+      "versionCode": "CHQNT",
+      "language": "Quiotepec Chinantec",
+      "languageEng": "Quiotepec Chinantec",
+      "id": "biblesorg-chq-CHQNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Ozumacín Chinantec": [
+    {
+      "title": "Hmooh hmëë he- ga-jmee Jesucristo; Salmos",
+      "versionCode": "CHZNTPS",
+      "language": "Ozumacín Chinantec",
+      "languageEng": "Ozumacín Chinantec",
+      "id": "biblesorg-chz-CHZNTPS",
+      "source": "biblesorg"
+    }
+  ],
+  "Ashéninka Pajonal": [
+    {
+      "title": "Iwaperite tajorentsi ikenkithatakoetziri awinkatharite Jesokirishito: owakirari inimotakiri tajorentsi",
+      "versionCode": "CJONT",
+      "language": "Ashéninka Pajonal",
+      "languageEng": "Ashéninka Pajonal",
+      "id": "biblesorg-cjo-CJONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Lealao Chinantec": [
+    {
+      "title": "Ja̱³la³ fáh⁴dxa⁴²dxú⁴ hi³mɨɨ³² chiáh² Ñúh³a² Jesucristo; Salmos",
+      "versionCode": "CLENT",
+      "language": "Lealao Chinantec",
+      "languageEng": "Lealao Chinantec",
+      "id": "biblesorg-cle-CLENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Cerma": [
+    {
+      "title": "Diiloŋ-nelma Tobisĩfɛlɛnni",
+      "versionCode": "CMENT",
+      "language": "Cerma",
+      "languageEng": "Cerma",
+      "id": "biblesorg-cme-CMENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Asháninka": [
+    {
+      "title": "Irineane tasorentsi oquenquetsatacotaqueri Avincatsarite Jesoquirishito",
+      "versionCode": "CNINT",
+      "language": "Asháninka",
+      "languageEng": "Asháninka",
+      "id": "biblesorg-cni-CNINT",
+      "source": "biblesorg"
+    }
+  ],
+  "Lalana Chinantec": [
+    {
+      "title": "Júu² 'mɨɨn³² 'e³ ca²³ŋɨń² Dios",
+      "versionCode": "CNLNT",
+      "language": "Lalana Chinantec",
+      "languageEng": "Lalana Chinantec",
+      "id": "biblesorg-cnl-CNLNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tepetotutla Chinantec": [
+    {
+      "title": "Jag₁ ʼmɨ́₂ a₂ma₂lɨʼ₅₄ quianʼ₅₄ Diu₄",
+      "versionCode": "CNTNT",
+      "language": "Tepetotutla Chinantec",
+      "languageEng": "Tepetotutla Chinantec",
+      "id": "biblesorg-cnt-CNTNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Colorado": [
+    {
+      "title": "Diosichi Pila",
+      "versionCode": "COFNT",
+      "language": "Colorado",
+      "languageEng": "Colorado",
+      "id": "biblesorg-cof-COFNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Cofán": [
+    {
+      "title": "Chiga Tevaen'Jema Atesuja 1, Aisheve Caña'cho",
+      "versionCode": "CONNTPO",
+      "language": "Cofán",
+      "languageEng": "Cofán",
+      "id": "biblesorg-con-CONNTPO",
+      "source": "biblesorg"
+    }
+  ],
+  "Caquinte": [
+    {
+      "title": "Iroaquerari Itioncacaantaqueca Aapani Irioshi: Tsavetacoquerica Amajirote Jesoquirishito",
+      "versionCode": "COTNT",
+      "language": "Caquinte",
+      "languageEng": "Caquinte",
+      "id": "biblesorg-cot-COTNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Palantla Chinantec": [
+    {
+      "title": "El Nuevo Testamento de nuestro señor Jesucristo: Versión chinanteca",
+      "versionCode": "CPANT",
+      "language": "Palantla Chinantec",
+      "languageEng": "Palantla Chinantec",
+      "id": "biblesorg-cpa-CPANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Ucayali-Yurúa Ashéninka": [
+    {
+      "title": "Kameethari Ñaantsi: ikenkitha-takoitziri awinkatharite Jesucristo; Owakerari aapatziya-wakagaantsi",
+      "versionCode": "CPBNT",
+      "language": "Ucayali-Yurúa Ashéninka",
+      "languageEng": "Ucayali-Yurúa Ashéninka",
+      "id": "biblesorg-cpb-CPBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Ajyíninka Apurucayali": [
+    {
+      "title": "KAMIITHARI ÑAANTSI",
+      "versionCode": "CPCNT",
+      "language": "Ajyíninka Apurucayali",
+      "languageEng": "Ajyíninka Apurucayali",
+      "id": "biblesorg-cpc-CPCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Pichis Ashéninka": [
+    {
+      "title": "KAMEETHARI ÑAANTSI: Iñaaventaitzirira Avinkatharite Jesucristo",
+      "versionCode": "CPUNT",
+      "language": "Pichis Ashéninka",
+      "languageEng": "Pichis Ashéninka",
+      "id": "biblesorg-cpu-CPUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "El Nayar Cora": [
+    {
+      "title": "Ɨ niuucari tɨ jejcua, tɨ ajta jɨme'en ra'axa a'ɨjna ɨ tavastara'a, ɨ Cɨriistu'u tɨ ji'i Jesús tɨ̀ tu'irájtuaa",
+      "versionCode": "CRNANT",
+      "language": "El Nayar Cora",
+      "languageEng": "El Nayar Cora",
+      "id": "biblesorg-crn-CRNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Carrier": [
+    {
+      "title": "Yak'usda Ooghuni",
+      "versionCode": "CRXNTPO",
+      "language": "Carrier",
+      "languageEng": "Carrier",
+      "id": "biblesorg-crx-CRXNTPO",
+      "source": "biblesorg"
+    }
+  ],
+  "Sochiapam Chinantec": [
+    {
+      "title": "Jú¹ chú³² quioh²¹ Jesús tsá² lɨn³ Cristo",
+      "versionCode": "CSONT",
+      "language": "Sochiapam Chinantec",
+      "languageEng": "Sochiapam Chinantec",
+      "id": "biblesorg-cso-CSONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tataltepec Chatino": [
+    {
+      "title": "Chaʼ tsoʼo nu nchcuiʼ jiʼi̱ Jesucristo nu xuʼna na",
+      "versionCode": "CTANT",
+      "language": "Tataltepec Chatino",
+      "languageEng": "Tataltepec Chatino",
+      "id": "biblesorg-cta-CTANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Western Highland Chatino": [
+    {
+      "title": "Chaʼ suʼwe nu nchkwiʼ chaʼ ʼin Jesucristo nu nka xʼnaan",
+      "versionCode": "CTPNT",
+      "language": "Western Highland Chatino",
+      "languageEng": "Western Highland Chatino",
+      "id": "biblesorg-ctp-CTPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Chol": [
+    {
+      "title": "I T’an Dios",
+      "versionCode": "CTUBI",
+      "language": "Chol",
+      "languageEng": "Chol",
+      "id": "biblesorg-ctu-CTUBI",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Jini wen bʌ tʼan",
+      "versionCode": "CTUNT",
+      "language": "Chol",
+      "languageEng": "Chol",
+      "id": "biblesorg-ctu-CTUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Cubeo": [
+    {
+      "title": "Majepacʉ jʉ̃menijicʉi yávaiye mamaene coyʉitucubo",
+      "versionCode": "CUBNT",
+      "language": "Cubeo",
+      "languageEng": "Cubeo",
+      "id": "biblesorg-cub-CUBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Usila Chinantec": [
+    {
+      "title": "Jau²³ hm²³ i⁴ra³tya²³ nei² quieh¹ re¹ Jesucristo quian⁴-¹",
+      "versionCode": "CUCNT",
+      "language": "Usila Chinantec",
+      "languageEng": "Usila Chinantec",
+      "id": "biblesorg-cuc-CUCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Cuiba": [
+    {
+      "title": "Nacom Pejume Diwesi",
+      "versionCode": "CUINT",
+      "language": "Cuiba",
+      "languageEng": "Cuiba",
+      "id": "biblesorg-cui-CUINT",
+      "source": "biblesorg"
+    }
+  ],
+  "San Blas Kuna": [
+    {
+      "title": "Bab dummad Jesucristoba igar mesisad garda",
+      "versionCode": "CUKNT",
+      "language": "San Blas Kuna",
+      "languageEng": "San Blas Kuna",
+      "id": "biblesorg-cuk-CUKNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Teutila Cuicatec": [
+    {
+      "title": "El Nuevo Testamento: Cuicateco de Teutila",
+      "versionCode": "CUTNT",
+      "language": "Teutila Cuicatec",
+      "languageEng": "Teutila Cuicatec",
+      "id": "biblesorg-cut-CUTNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tepeuxila Cuicatec": [
+    {
+      "title": "Nduudu nʼdai yeⁿʼe Ndyuūs yeⁿʼe cuicateco yeⁿʼe Tepeuxila",
+      "versionCode": "CUXNT",
+      "language": "Tepeuxila Cuicatec",
+      "languageEng": "Tepeuxila Cuicatec",
+      "id": "biblesorg-cux-CUXNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Welsh": [
+    {
+      "title": "Beibl Cymraeg Newydd",
+      "versionCode": "BCN",
+      "language": "Cymraeg",
+      "languageEng": "Welsh",
+      "id": "biblesorg-cym-BCN",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Beibl Cymraeg Newydd Diwygiedig 2004",
+      "versionCode": "BCND",
+      "language": "Cymraeg",
+      "languageEng": "Welsh",
+      "id": "biblesorg-cym-BCND",
+      "source": "biblesorg"
+    },
+    {
+      "title": "beibl.net 2015",
+      "versionCode": "BNET",
+      "language": "Cymraeg",
+      "languageEng": "Welsh",
+      "id": "biblesorg-cym-BNET",
+      "source": "biblesorg"
+    }
+  ],
+  "Dangaléat": [
+    {
+      "title": "Jamaw ta Marbinto: Kabarre ta Gala ɗo bi ka Iisa Masi iŋ daŋla",
+      "versionCode": "DAANT",
+      "language": "Dangaléat",
+      "languageEng": "Dangaléat",
+      "id": "biblesorg-daa-DAANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Marik": [
+    {
+      "title": "Mata Ifenẽya Nẽ Od",
+      "versionCode": "DADNT",
+      "language": "Marik",
+      "languageEng": "Marik",
+      "id": "biblesorg-dad-DADNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Southwestern Dinka": [
+    {
+      "title": "Lëk yam",
+      "versionCode": "DIKNT",
+      "language": "Dinka: Southwestern",
+      "languageEng": "Southwestern Dinka",
+      "id": "biblesorg-dik-DIKNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Businenge Tongo": [
+    {
+      "title": "Beibel: okanisi tongo",
+      "versionCode": "DJKNT",
+      "language": "Businenge Tongo",
+      "languageEng": "Businenge Tongo",
+      "id": "biblesorg-djk-DJKNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Ese Ejja": [
+    {
+      "title": "Eyacuiñajjija Esohui",
+      "versionCode": "ESENT",
+      "language": "Ese Ejja",
+      "languageEng": "Ese Ejja",
+      "id": "biblesorg-ese-ESENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Northwest Alaska Inupiatun": [
+    {
+      "title": "Ipqitchuat Makpiġaat - Agaayyutim Uqałhi Iñupiatun",
+      "versionCode": "ESKNT",
+      "language": "Northwest Alaska Inupiatun",
+      "languageEng": "Northwest Alaska Inupiatun",
+      "id": "biblesorg-esk-ESKNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Fijian": [
+    {
+      "title": "Vakavakadewa Makawa",
+      "versionCode": "FOV",
+      "language": "Fijian",
+      "languageEng": "Fijian",
+      "id": "biblesorg-fij-FOV",
+      "source": "biblesorg"
+    }
+  ],
+  "French": [
+    {
+      "title": "Bible Segond 1910",
+      "versionCode": "LSG",
+      "language": "Français",
+      "languageEng": "French",
+      "id": "biblesorg-fra-LSG",
+      "source": "biblesorg"
+    }
+  ],
+  "Ngangam": [
+    {
+      "title": "Uwien ya Jɔtiefɛ̀nku ya gbɔnku",
+      "versionCode": "GNGNT",
+      "language": "Ngangam",
+      "languageEng": "Ngangam",
+      "id": "biblesorg-gng-GNGNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Guaraní: Western Bolivian": [
+    {
+      "title": "Nuevo Testamento Guaraní Pe",
+      "versionCode": "GNWNT",
+      "language": "Guaraní: Western Bolivian",
+      "languageEng": "Guaraní: Western Bolivian",
+      "id": "biblesorg-gnw-GNWNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Guajajára": [
+    {
+      "title": "Tupàn zeꞌeg",
+      "versionCode": "GUBBI",
+      "language": "Guajajára",
+      "languageEng": "Guajajára",
+      "id": "biblesorg-gub-GUBBI",
+      "source": "biblesorg"
+    }
+  ],
+  "Guaraní: Eastern Bolivian": [
+    {
+      "title": "Nuevo Testamento Guaraní Pe",
+      "versionCode": "GUINT",
+      "language": "Guaraní: Eastern Bolivian",
+      "languageEng": "Guaraní: Eastern Bolivian",
+      "id": "biblesorg-gui-GUINT",
+      "source": "biblesorg"
+    }
+  ],
+  "Sea Island Creole English": [
+    {
+      "title": "De Nyew Testament",
+      "versionCode": "GULNT",
+      "language": "Sea Island Creole English",
+      "languageEng": "Sea Island Creole English",
+      "id": "biblesorg-gul-GULNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Guayabero": [
+    {
+      "title": "Pajelwʉajan Dios pejjamechan",
+      "versionCode": "GUONT",
+      "language": "Guayabero",
+      "languageEng": "Guayabero",
+      "id": "biblesorg-guo-GUONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Gwichʼin": [
+    {
+      "title": "Vit'eegwijyąhchy'aa Vagwandak Nizįį",
+      "versionCode": "GWINT",
+      "language": "Gwichʼin",
+      "languageEng": "Gwichʼin",
+      "id": "biblesorg-gwi-GWINT",
+      "source": "biblesorg"
+    }
+  ],
+  "Ngäbere": [
+    {
+      "title": "Kukwe kuin ngöbökwe",
+      "versionCode": "GYMNT",
+      "language": "Ngäbere",
+      "languageEng": "Ngäbere",
+      "id": "biblesorg-gym-GYMNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Guarayu": [
+    {
+      "title": "Tũpa Ñehengagüer",
+      "versionCode": "GYRNT",
+      "language": "Guarayu",
+      "languageEng": "Guarayu",
+      "id": "biblesorg-gyr-GYRNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Huichol": [
+    {
+      "title": "Cacaüyari niuquieya xapayari türatu hecuame hepaüsita tatiʼaitüvame tasivicueisitüvame Quesusi Cürisitu miʼatüa = El Nuevo Testamento de nuestro señor y salvador Jesucristo",
+      "versionCode": "HCHNT",
+      "language": "Huichol",
+      "languageEng": "Huichol",
+      "id": "biblesorg-hch-HCHNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Hixkaryána": [
+    {
+      "title": "Khoryenkom Karyehtanà",
+      "versionCode": "HIXNT",
+      "language": "Hixkaryána",
+      "languageEng": "Hixkaryána",
+      "id": "biblesorg-hix-HIXNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Caribbean Hindustani": [
+    {
+      "title": "Parmeswar ke naawa poestak",
+      "versionCode": "HNSNT",
+      "language": "Caribbean Hindustani",
+      "languageEng": "Caribbean Hindustani",
+      "id": "biblesorg-hns-HNSNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Hopi": [
+    {
+      "title": "God Lavayiyat Aṅ Puhuvasiwni",
+      "versionCode": "HOPNT",
+      "language": "Hopi",
+      "languageEng": "Hopi",
+      "id": "biblesorg-hop-HOPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Croatian": [
+    {
+      "title": "Biblija, Sveto pismo Staroga i Novoga zavjeta",
+      "versionCode": "HRS07",
+      "language": "Hrvatski",
+      "languageEng": "Croatian",
+      "id": "biblesorg-hrv-HRS07",
+      "source": "biblesorg"
+    }
+  ],
+  "Huambisa": [
+    {
+      "title": "Yuusa chichame yaunchukia tura yamaram chichamjai aarmau",
+      "versionCode": "HUBNT",
+      "language": "Huambisa",
+      "languageEng": "Huambisa",
+      "id": "biblesorg-hub-HUBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Huastec": [
+    {
+      "title": "An it jilchith cau cʼal i Ajatic Jesucristo",
+      "versionCode": "HUSNT",
+      "language": "Huastec",
+      "languageEng": "Huastec",
+      "id": "biblesorg-hus-HUSNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Murui Huitoto": [
+    {
+      "title": "Jusiñamui uai: Jusiñamui jito rafue illa rabenico",
+      "versionCode": "HUUNT",
+      "language": "Murui Huitoto",
+      "languageEng": "Murui Huitoto",
+      "id": "biblesorg-huu-HUUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "San Mateo Del Mar Huave": [
+    {
+      "title": "Jayats nanderac wüx miteatiiüts Jesucristo",
+      "versionCode": "HUVNT",
+      "language": "San Mateo Del Mar Huave",
+      "languageEng": "San Mateo Del Mar Huave",
+      "id": "biblesorg-huv-HUVNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Hawai'i Creole English": [
+    {
+      "title": "Da Jesus Book",
+      "versionCode": "HWCNT",
+      "language": "Hawai'i Creole English",
+      "languageEng": "Hawai'i Creole English",
+      "id": "biblesorg-hwc-HWCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Ignaciano": [
+    {
+      "title": "Eta Táurinaquene máechajiriruvahi ema Viya eta viyehe, ticaijare puito Eta Nuevo Testamento",
+      "versionCode": "IGNNT",
+      "language": "Moxos",
+      "languageEng": "Ignaciano",
+      "id": "biblesorg-ign-IGNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tuma-Irumu": [
+    {
+      "title": "Anutu Täŋo Man",
+      "versionCode": "IOUNTPO",
+      "language": "Tuma-Irumu",
+      "languageEng": "Tuma-Irumu",
+      "id": "biblesorg-iou-IOUNTPO",
+      "source": "biblesorg"
+    }
+  ],
+  "Ixil": [
+    {
+      "title": "Viakʼla txumbʼal u tioxh",
+      "versionCode": "IXLCNT",
+      "language": "Ixil",
+      "languageEng": "Ixil",
+      "id": "biblesorg-ixl-IXLCNT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "U ak' Testamento tu kuyob'al",
+      "versionCode": "IXLNNT",
+      "language": "Ixil",
+      "languageEng": "Ixil",
+      "id": "biblesorg-ixl-IXLNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Jakalteko": [
+    {
+      "title": "Nuevo Testamento yin̈ abxubal",
+      "versionCode": "JACNT",
+      "language": "Jakalteko",
+      "languageEng": "Jakalteko",
+      "id": "biblesorg-jac-JACNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tol": [
+    {
+      "title": "Dios Tjevele Jupj 'Üsüs La Qjuisiji Jesucristo Mpes",
+      "versionCode": "JICNT",
+      "language": "Tol",
+      "languageEng": "Tol",
+      "id": "biblesorg-jic-JICNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Shuar": [
+    {
+      "title": "Yus Papí: Shuarja̱i̱ Yus Yamaram Chicham Najanamu",
+      "versionCode": "JIVNT",
+      "language": "Shuar",
+      "languageEng": "Shuar",
+      "id": "biblesorg-jiv-JIVNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Caribbean Javanese": [
+    {
+      "title": "Kitab sutyi prejanjian anyar ing Basa Jawa Suriname sing gampang",
+      "versionCode": "JVNNT",
+      "language": "Caribbean Javanese",
+      "languageEng": "Caribbean Javanese",
+      "id": "biblesorg-jvn-JVNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Capanahua": [
+    {
+      "title": "Noquen hihbaan joi",
+      "versionCode": "KAQNT",
+      "language": "Capanahua",
+      "languageEng": "Capanahua",
+      "id": "biblesorg-kaq-KAQNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Kadiwéu": [
+    {
+      "title": "Gela Liwai Lotaɡ̶anaɡ̶axi Aneotedoɡ̶oji",
+      "versionCode": "KBCNT",
+      "language": "Kadiwéu",
+      "languageEng": "Kadiwéu",
+      "id": "biblesorg-kbc-KBCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tsikimba": [
+    {
+      "title": "Kazuwamgbani ka savu n Tsikimba n aɓon a ɗa a ɗanga̱sai a kazuwamgbani ka cau",
+      "versionCode": "KDLNT",
+      "language": "Tsikimba",
+      "languageEng": "Tsikimba",
+      "id": "biblesorg-kdl-KDLNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Kenyang": [
+    {
+      "title": "Ɛkáti Nku Nkɔ",
+      "versionCode": "KENNT",
+      "language": "Kenyang",
+      "languageEng": "Kenyang",
+      "id": "biblesorg-ken-KENNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Kaiwá": [
+    {
+      "title": "Nhandejáry Nhe'ẽ",
+      "versionCode": "KGKNT",
+      "language": "Kaiwá",
+      "languageEng": "Kaiwá",
+      "id": "biblesorg-kgk-KGKNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Kaingang": [
+    {
+      "title": "Topẽ vĩ rá",
+      "versionCode": "KGPNT",
+      "language": "Kaingang",
+      "languageEng": "Kaingang",
+      "id": "biblesorg-kgp-KGPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Western Kanjobal": [
+    {
+      "title": "Ja' An Nuevo Testamento",
+      "versionCode": "KNJNT",
+      "language": "Western Kanjobal",
+      "languageEng": "Western Kanjobal",
+      "id": "biblesorg-knj-KNJNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Karajá": [
+    {
+      "title": "Deuxu Rybe Tyyriti",
+      "versionCode": "KPJNT",
+      "language": "Karajá",
+      "languageEng": "Karajá",
+      "id": "biblesorg-kpj-KPJNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Border Kuna": [
+    {
+      "title": "Pab tummad karta pab Jesucristobal igal-pin mezhijad",
+      "versionCode": "KVNNT",
+      "language": "Border Kuna",
+      "languageEng": "Border Kuna",
+      "id": "biblesorg-kvn-KVNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Kayabí": [
+    {
+      "title": "Janeruwarete 'Ga Je'eg",
+      "versionCode": "KYZNT",
+      "language": "Kayabí",
+      "languageEng": "Kayabí",
+      "id": "biblesorg-kyz-KYZNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Lacandon": [
+    {
+      "title": "A quet u t'ʌno' a ricʼbeno'",
+      "versionCode": "LACNT",
+      "language": "Lacandon",
+      "languageEng": "Lacandon",
+      "id": "biblesorg-lac-LACNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Limbu": [
+    {
+      "title": "ᤏᤡᤱᤘᤠ᤹ᤑᤢ ᤐᤠ᤺ᤴᤈᤠᤰ ᤁᤢᤛᤱ ᤔᤠᤱᤜᤢᤵ",
+      "versionCode": "LIFDNT",
+      "language": "Limbu",
+      "languageEng": "Limbu",
+      "id": "biblesorg-lif-LIFNT",
+      "source": "biblesorg"
+    }
+  ],
+  "San Jerónimo Tecóatl Mazatec": [
+    {
+      "title": "'Én Xiṯ se-la̱ Nainá ra a̱'ta 'tse̱ Jesucristo",
+      "versionCode": "MAANT",
+      "language": "San Jerónimo Tecóatl Mazatec",
+      "languageEng": "San Jerónimo Tecóatl Mazatec",
+      "id": "biblesorg-maa-MAANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Jalapa De Díaz Mazatec": [
+    {
+      "title": "Éhe̱n Nti̱a̱ná",
+      "versionCode": "MAJNT",
+      "language": "Jalapa De Díaz Mazatec",
+      "languageEng": "Jalapa De Díaz Mazatec",
+      "id": "biblesorg-maj-MAJNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mam": [
+    {
+      "title": "Acʼaj testamento (El Nuevo testamento in Mam de Todos Santos)",
+      "versionCode": "MAMTNT",
+      "language": "Mam",
+      "languageEng": "Mam",
+      "id": "biblesorg-mam-MAMNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Chiquihuitlán Mazatec": [
+    {
+      "title": "Compromisu xi majo xi casahmi nina cojo xuta (El Nuevo Testamento en el mazateco de Chiquihuitlán de Juárez ... y en español)",
+      "versionCode": "MAQNT",
+      "language": "Chiquihuitlán Mazatec",
+      "languageEng": "Chiquihuitlán Mazatec",
+      "id": "biblesorg-maq-MAQNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Huautla Mazatec": [
+    {
+      "title": "Xon⁴-le⁴ ni³na¹ xi³ tʔa³tsʔe⁴ Jesucristo",
+      "versionCode": "MAUNT",
+      "language": "Huautla Mazatec",
+      "languageEng": "Huautla Mazatec",
+      "id": "biblesorg-mau-MAUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Sateré-Mawé": [
+    {
+      "title": "Tupana Ehay Satere Mawe Pusupuo",
+      "versionCode": "MAVNT",
+      "language": "Sateré-Mawé",
+      "languageEng": "Sateré-Mawé",
+      "id": "biblesorg-mav-MAVNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Central Mazahua": [
+    {
+      "title": "Nu o̱ jña mizhocjimi nu mama ja ga cja e Jesucristo",
+      "versionCode": "MAZNT",
+      "language": "Central Mazahua",
+      "languageEng": "Central Mazahua",
+      "id": "biblesorg-maz-MAZNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Macushi": [
+    {
+      "title": "Amenan pe paapaya uyetato'kon",
+      "versionCode": "MBCNT",
+      "language": "Macushi",
+      "languageEng": "Macushi",
+      "id": "biblesorg-mbc-MBCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Nadëb": [
+    {
+      "title": "Pꞌop Hagä Do Panyyg Hanäm Do Hahỹỹh",
+      "versionCode": "MBJNT",
+      "language": "Nadëb",
+      "languageEng": "Nadëb",
+      "id": "biblesorg-mbj-MBJNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Maxakalí": [
+    {
+      "title": "Topa Yõg Tappet",
+      "versionCode": "MBLNT",
+      "language": "Maxakalí",
+      "languageEng": "Maxakalí",
+      "id": "biblesorg-mbl-MBLNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Machiguenga": [
+    {
+      "title": "Iriniane Tasorintsi",
+      "versionCode": "MCBNT",
+      "language": "Machiguenga",
+      "languageEng": "Machiguenga",
+      "id": "biblesorg-mcb-MCBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Sharanahua": [
+    {
+      "title": "Diospan Tsain",
+      "versionCode": "MCDNT",
+      "language": "Sharanahua",
+      "languageEng": "Sharanahua",
+      "id": "biblesorg-mcd-MCDNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Matsés": [
+    {
+      "title": "Esuquidistu Chuiquin Tantiamete",
+      "versionCode": "MCFNT",
+      "language": "Matsés",
+      "languageEng": "Matsés",
+      "id": "biblesorg-mcf-MCFNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixe: Lowland Mixe": [
+    {
+      "title": "El Nuevo Testamento en mixe de Coatlán",
+      "versionCode": "MCONT",
+      "language": "Mixe: Coatlán",
+      "languageEng": "Mixe: Lowland Mixe",
+      "id": "biblesorg-mco-MCONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Atatláhuca": [
+    {
+      "title": "Nuevo Testamento en mixteco",
+      "versionCode": "MIBNT",
+      "language": "Mixtec: Atatláhuca",
+      "languageEng": "Mixtec: Atatláhuca",
+      "id": "biblesorg-mib-MIBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Ocotepec": [
+    {
+      "title": "Nuevo Testamento en mixteco de Ocotepec",
+      "versionCode": "MIENT",
+      "language": "Mixtec: Ocotepec",
+      "languageEng": "Mixtec: Ocotepec",
+      "id": "biblesorg-mie-MIENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: San Miguel El Grande": [
+    {
+      "title": "Testamento jaa maa jitoho-yo Jesucristo",
+      "versionCode": "MIGNT",
+      "language": "Mixtec: San Miguel El Grande",
+      "languageEng": "Mixtec: San Miguel El Grande",
+      "id": "biblesorg-mig-MIGNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Chayuco": [
+    {
+      "title": "Tuhun Ndyoo sihin tyehen ñi",
+      "versionCode": "MIHNT",
+      "language": "Mixtec: Chayuco",
+      "languageEng": "Mixtec: Chayuco",
+      "id": "biblesorg-mih-MIHNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Peñoles": [
+    {
+      "title": "Tnúhu ní cáháⁿ yǎ ndiǒxí xito cùu uú",
+      "versionCode": "MILNT",
+      "language": "Mixtec: Peñoles",
+      "languageEng": "Mixtec: Peñoles",
+      "id": "biblesorg-mil-MILNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Pinotepa Nacional": [
+    {
+      "title": "Tutu chaa cha iyo cuenda ra hahnu Jesucristo",
+      "versionCode": "MIONT",
+      "language": "Mixtec: Pinotepa Nacional",
+      "languageEng": "Mixtec: Pinotepa Nacional",
+      "id": "biblesorg-mio-MIONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixe: Isthmus": [
+    {
+      "title": "El Nuevo Testamento en mixe de Guichicovi",
+      "versionCode": "MIRNT",
+      "language": "Mixe: Isthmus",
+      "languageEng": "Mixe: Isthmus",
+      "id": "biblesorg-mir-MIRNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Southern Puebla": [
+    {
+      "title": "Ley saa ni nacoo Jesucristu",
+      "versionCode": "MITNT",
+      "language": "Mixtec: Southern Puebla",
+      "languageEng": "Mixtec: Southern Puebla",
+      "id": "biblesorg-mit-MITNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Coatzospan": [
+    {
+      "title": "Tūʼún xuva kō vatā ó ntákaʼan ña ñuú Coatzospan",
+      "versionCode": "MIZNT",
+      "language": "Mixtec: Coatzospan",
+      "languageEng": "Mixtec: Coatzospan",
+      "id": "biblesorg-miz-MIZNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: San Juan Colorado": [
+    {
+      "title": "Tuhun tsaa tsa nacoo̱ jutu mañi yo Jesucristo tsi yo",
+      "versionCode": "MJCNT",
+      "language": "Mixtec: San Juan Colorado",
+      "languageEng": "Mixtec: San Juan Colorado",
+      "id": "biblesorg-mjc-MJCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Silacayoapan ": [
+    {
+      "title": "Tu̱hun sa̱á ña̱ na̱jándacoo Jesucristo nu̱ yo̱: El Nuevo Testamento en el mixteco de Silacayoapan",
+      "versionCode": "MKSNT",
+      "language": "Mixtec: Silacayoapan ",
+      "languageEng": "Mixtec: Silacayoapan ",
+      "id": "biblesorg-mks-MKSNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mopán Maya": [
+    {
+      "title": "Le'ec Ada' U T'an A Dios A Tumulbene",
+      "versionCode": "MOPNT",
+      "language": "Mopán Maya",
+      "languageEng": "Mopán Maya",
+      "id": "biblesorg-mop-MOPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Yosondúa": [
+    {
+      "title": "Nuevo Testamento en mixteco de Yosondúa",
+      "versionCode": "MPMNT",
+      "language": "Mixtec: Yosondúa",
+      "languageEng": "Mixtec: Yosondúa",
+      "id": "biblesorg-mpm-MPMNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Migabac": [
+    {
+      "title": "Wapongte hibi: Luka, Salecebaicne, nga Galata",
+      "versionCode": "MPPPOR",
+      "language": "Migabac",
+      "languageEng": "Migabac",
+      "id": "biblesorg-mpp-MPPPOR",
+      "source": "biblesorg"
+    }
+  ],
+  "Mbuko": [
+    {
+      "title": "Aɓan 'am wiya awan",
+      "versionCode": "MQBNT",
+      "language": "Mbuko",
+      "languageEng": "Mbuko",
+      "id": "biblesorg-mqb-MQBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mamasa": [
+    {
+      "title": "Buku Masero: Pa'dandi Bakaru",
+      "versionCode": "MQJNT",
+      "language": "Mamasa",
+      "languageEng": "Mamasa",
+      "id": "biblesorg-mqj-MQJNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Maiwa (Papua New Guinea)": [
+    {
+      "title": "Gae Mataiwa",
+      "versionCode": "MTINT",
+      "language": "Maiwa (Papua New Guinea)",
+      "languageEng": "Maiwa (Papua New Guinea)",
+      "id": "biblesorg-mti-MTINT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixe: North Highland": [
+    {
+      "title": "Ya̱ʼa̱ tseʼe je̱ nam ko̱jtstán juuʼ veʼe je̱ Nteʼyamˍ xyaktaajnjimdu je̱ nMa̱j Vintsá̱namda Jesucristo ka̱jx",
+      "versionCode": "MTONT",
+      "language": "Mixe: Totontepec",
+      "languageEng": "Mixe: North Highland",
+      "id": "biblesorg-mto-MTONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Tezoatlán ": [
+    {
+      "title": "Tuti yó'o kúú to̱'on Ndios, ta xí'o ña kuendá sa'a̱ Jesús",
+      "versionCode": "MXBNT",
+      "language": "Mixtec: Tezoatlán ",
+      "languageEng": "Mixtec: Tezoatlán ",
+      "id": "biblesorg-mxb-MXBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tlahuitoltepec Mixe": [
+    {
+      "title": "Ja øgyajpxy ja ømyadya̱ʼa̱ky midi xukpa̱a̱jtɨmp ja nɨtsoʼokʼajtɨn",
+      "versionCode": "MXPNT",
+      "language": "Tlahuitoltepec Mixe",
+      "languageEng": "Tlahuitoltepec Mixe",
+      "id": "biblesorg-mxp-MXPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixe: South Midland": [
+    {
+      "title": "Ja jembyʉ kajxy'átypyʉ mʉdʉ Jesukristʉkyʉjxm: El Nuevo Testamento de nuestro Señor Jesucristo en el mixe de Juquila",
+      "versionCode": "MXQNT",
+      "language": "Mixe: Juquila",
+      "languageEng": "Mixe: South Midland",
+      "id": "biblesorg-mxq-MXQNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Jamiltepec": [
+    {
+      "title": "Tuhun cha sañahá ra Jesucristo chi yo",
+      "versionCode": "MXTNT",
+      "language": "Mixtec: Jamiltepec",
+      "languageEng": "Mixtec: Jamiltepec",
+      "id": "biblesorg-mxt-MXTNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mundurukú": [
+    {
+      "title": "Deus ekawẽntup Kawẽn iisuat ekawẽn",
+      "versionCode": "MYUNT",
+      "language": "Mundurukú",
+      "languageEng": "Mundurukú",
+      "id": "biblesorg-myu-MYUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Southern Nambikuára": [
+    {
+      "title": "Txa²wã¹sũ̱³na² Wãn³txa²",
+      "versionCode": "NABNT",
+      "language": "Southern Nambikuára",
+      "languageEng": "Southern Nambikuára",
+      "id": "biblesorg-nab-NABNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Central Huasteca Nahuatl": [
+    {
+      "title": "Icamanal toteco; Santa Biblia",
+      "versionCode": "NCHBI",
+      "language": "Central Huasteca Nahuatl",
+      "languageEng": "Central Huasteca Nahuatl",
+      "id": "biblesorg-nch-NCHBI",
+      "source": "biblesorg"
+    }
+  ],
+  "Northern Puebla Nahuatl": [
+    {
+      "title": "In yancuic mononotzalistli ica Totecohtzin Jesucristo",
+      "versionCode": "NCJNT",
+      "language": "Northern Puebla Nahuatl",
+      "languageEng": "Northern Puebla Nahuatl",
+      "id": "biblesorg-ncj-NCJNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Michoacán Nahuatl": [
+    {
+      "title": "Ilajtulisli Yancuic toTata Jesucristo",
+      "versionCode": "NCLNT",
+      "language": "Michoacán Nahuatl",
+      "languageEng": "Michoacán Nahuatl",
+      "id": "biblesorg-ncl-NCLNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Chumburung": [
+    {
+      "title": "Abware̱se̱ŋ Wo̱re̱-ɔ",
+      "versionCode": "NCUNT",
+      "language": "Chumburung",
+      "languageEng": "Chumburung",
+      "id": "biblesorg-ncu-NCUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Guerrero Nahuatl": [
+    {
+      "title": "In yencuic iyectlajtoltzin Dios itech ica toTeco Jesucristo",
+      "versionCode": "NGUNT",
+      "language": "Guerrero Nahuatl",
+      "languageEng": "Guerrero Nahuatl",
+      "id": "biblesorg-ngu-NGUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Eastern Huasteca Nahuatl": [
+    {
+      "title": "Itlajtol toteco: Santa Biblia",
+      "versionCode": "NHEBI",
+      "language": "Eastern Huasteca Nahuatl",
+      "languageEng": "Eastern Huasteca Nahuatl",
+      "id": "biblesorg-nhe-NHEBI",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Ya ni nopa yancuic tlajtoli tlen toteco toca mocajtoc; El Nuevo Testamento de nuestro Señor Jesucristo en el náhuatl de la Huasteca Oriental",
+      "versionCode": "NHENT",
+      "language": "Eastern Huasteca Nahuatl",
+      "languageEng": "Eastern Huasteca Nahuatl",
+      "id": "biblesorg-nhe-NHENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tetelcingo Nahuatl": [
+    {
+      "title": "El Nuevo Testamento en nahuatl de Tetelcingo",
+      "versionCode": "NHGNT",
+      "language": "Tetelcingo Nahuatl",
+      "languageEng": "Tetelcingo Nahuatl",
+      "id": "biblesorg-nhg-NHGNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Zacatlán-Ahuacatlán-Tepetzintla Nahuatl": [
+    {
+      "title": "In Yancuic Tlahtolsintilil",
+      "versionCode": "NHINT",
+      "language": "Zacatlán-Ahuacatlán-Tepetzintla Nahuatl",
+      "languageEng": "Zacatlán-Ahuacatlán-Tepetzintla Nahuatl",
+      "id": "biblesorg-nhi-NHINT",
+      "source": "biblesorg"
+    }
+  ],
+  "Noone": [
+    {
+      "title": "Ŋwa' Nyo' Moŋkan mo Monfɛm",
+      "versionCode": "NHUNT",
+      "language": "Noone",
+      "languageEng": "Noone",
+      "id": "biblesorg-nhu-NHUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Western Huasteca Nahuatl": [
+    {
+      "title": "Icamanal toteco; Santa Bíblia",
+      "versionCode": "NHWBI",
+      "language": "Western Huasteca Nahuatl",
+      "languageEng": "Western Huasteca Nahuatl",
+      "id": "biblesorg-nhw-NHWBI",
+      "source": "biblesorg"
+    }
+  ],
+  "Northern Oaxaca Nahuatl": [
+    {
+      "title": "Itlajtol totajtzin Dios = El Nuevo Testamento",
+      "versionCode": "NHYNT",
+      "language": "Northern Oaxaca Nahuatl",
+      "languageEng": "Northern Oaxaca Nahuatl",
+      "id": "biblesorg-nhy-NHYNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Nkonya": [
+    {
+      "title": "Bulu ntam pɔpwɛ; Nkonya",
+      "versionCode": "NKONT",
+      "language": "Nkonya",
+      "languageEng": "Nkonya",
+      "id": "biblesorg-nko-NKONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Numanggang": [
+    {
+      "title": "Bepaŋ'walaŋ yofolok kobuli tiŋa kap",
+      "versionCode": "NOPNTPO",
+      "language": "Numanggang",
+      "languageEng": "Numanggang",
+      "id": "biblesorg-nop-NOPNTPO",
+      "source": "biblesorg"
+    }
+  ],
+  "Nomatsiguenga": [
+    {
+      "title": "Irinibare Tosorintsi Ocomantëgotëri Antigomi Jesoquirisito",
+      "versionCode": "NOTNT",
+      "language": "Nomatsiguenga",
+      "languageEng": "Nomatsiguenga",
+      "id": "biblesorg-not-NOTNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Southeastern Puebla Nahuatl": [
+    {
+      "title": "Itlajtol Totajtsi Dios",
+      "versionCode": "NPLNT",
+      "language": "Southeastern Puebla Nahuatl",
+      "languageEng": "Southeastern Puebla Nahuatl",
+      "id": "biblesorg-npl-NPLNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Nehan": [
+    {
+      "title": "O uelhire uaia",
+      "versionCode": "NSNNT",
+      "language": "Nehan",
+      "languageEng": "Nehan",
+      "id": "biblesorg-nsn-NSNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Northern Tepehuan": [
+    {
+      "title": "Diuusi ñiooquidʌ utuducami oodamicʌdʌ",
+      "versionCode": "NTPNT",
+      "language": "Northern Tepehuan",
+      "languageEng": "Northern Tepehuan",
+      "id": "biblesorg-ntp-NTPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Southwest Tanna": [
+    {
+      "title": "Nəkwəkwə imərhakə kape kughen: nɨrpenien vi",
+      "versionCode": "NWINT",
+      "language": "Southwest Tanna",
+      "languageEng": "Southwest Tanna",
+      "id": "biblesorg-nwi-NWINT",
+      "source": "biblesorg"
+    }
+  ],
+  "Obo Manobo": [
+    {
+      "title": "Moppiyon Dinoggan, Moka-atag ki Disas Krays",
+      "versionCode": "OBONT",
+      "language": "Obo Manobo",
+      "languageEng": "Obo Manobo",
+      "id": "biblesorg-obo-OBONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tohono O'odham": [
+    {
+      "title": "Jiosh Wechij O'ohana",
+      "versionCode": "OODNT",
+      "language": "Tohono O'odham",
+      "languageEng": "Tohono O'odham",
+      "id": "biblesorg-ood-OODNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mezquital Otomi": [
+    {
+      "title": "Ra 'Ra'yo Testamento",
+      "versionCode": "OTENT",
+      "language": "Mezquital Otomi",
+      "languageEng": "Mezquital Otomi",
+      "id": "biblesorg-ote-OTENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Eastern Highland Otomi": [
+    {
+      "title": "Ra ʼdaʼyonhogui nangue ma Hmuhʉ ra Jesucristo",
+      "versionCode": "OTMNT",
+      "language": "Eastern Highland Otomi",
+      "languageEng": "Eastern Highland Otomi",
+      "id": "biblesorg-otm-OTMNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tenango Otomi": [
+    {
+      "title": "Ja ua ra̱ ʼdaʼyo cohi bi gomi̱ Oja̱ yø ja̱ʼi̱",
+      "versionCode": "OTNNT",
+      "language": "Tenango Otomi",
+      "languageEng": "Tenango Otomi",
+      "id": "biblesorg-otn-OTNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Querétaro Otomi": [
+    {
+      "title": "Àr 'ra'yo nkohi Jö har ñhöñhö maxei nto̱ngwi ár mahwifi har ha̱i m'onda ne har ñhömfo̱",
+      "versionCode": "OTQNT",
+      "language": "Querétaro Otomi",
+      "languageEng": "Querétaro Otomi",
+      "id": "biblesorg-otq-OTQNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Estado de México Otomi": [
+    {
+      "title": "El Nuevo Testamento en otomí de San Felipe Santiago, Edo. de México",
+      "versionCode": "OTSNT",
+      "language": "Estado de México Otomi",
+      "languageEng": "Estado de México Otomi",
+      "id": "biblesorg-ots-OTSNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Parecís": [
+    {
+      "title": "Waitare Wenati Aho",
+      "versionCode": "PABNT",
+      "language": "Parecís",
+      "languageEng": "Parecís",
+      "id": "biblesorg-pab-PABNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Paumarí": [
+    {
+      "title": "Deus Athi Kapapirani Hida",
+      "versionCode": "PADNT",
+      "language": "Paumarí",
+      "languageEng": "Paumarí",
+      "id": "biblesorg-pad-PADNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tenharim": [
+    {
+      "title": "Tupanaʼga nhiʼig̃a",
+      "versionCode": "PAHNT",
+      "language": "Tenharim",
+      "languageEng": "Tenharim",
+      "id": "biblesorg-pah-PAHNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Northern Paiute": [
+    {
+      "title": "Te Naa Besa Unnepu",
+      "versionCode": "PAONT",
+      "language": "Northern Paiute",
+      "languageEng": "Northern Paiute",
+      "id": "biblesorg-pao-PAONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Páez": [
+    {
+      "title": "Dyus Yuwe U'sesa",
+      "versionCode": "PBBNT",
+      "language": "Páez",
+      "languageEng": "Páez",
+      "id": "biblesorg-pbb-PBBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Yine": [
+    {
+      "title": "Gerotu Tokanchi Gipiratkaluru",
+      "versionCode": "PIBNT",
+      "language": "Yine",
+      "languageEng": "Yine",
+      "id": "biblesorg-pib-PIBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Piapoco": [
+    {
+      "title": "El Nuevo Testamento de nuestro Señor Jesucristo en el idioma piapoco",
+      "versionCode": "PIONT",
+      "language": "Piapoco",
+      "languageEng": "Piapoco",
+      "id": "biblesorg-pio-PIONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Piratapuyo": [
+    {
+      "title": "Cohãcjʉ̃ Yere Yahuducuri Tju",
+      "versionCode": "PIRNT",
+      "language": "Piratapuyo",
+      "languageEng": "Piratapuyo",
+      "id": "biblesorg-pir-PIRNT",
+      "source": "biblesorg"
+    }
+  ],
+  "San Marcos Tlalcoyalco Popoloca": [
+    {
+      "title": "Tti jian joajné Jesucristo",
+      "versionCode": "PLSNT",
+      "language": "San Marcos Tlalcoyalco Popoloca",
+      "languageEng": "San Marcos Tlalcoyalco Popoloca",
+      "id": "biblesorg-pls-PLSNT",
+      "source": "biblesorg"
+    }
+  ],
+  "San Juan Atzingo Popoloca": [
+    {
+      "title": "Tí Nuevo Testamento cuènte Inchéni Jesucristo Cʼóna Nquìva",
+      "versionCode": "POENT",
+      "language": "San Juan Atzingo Popoloca",
+      "languageEng": "San Juan Atzingo Popoloca",
+      "id": "biblesorg-poe-POENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Poqomchi'": [
+    {
+      "title": "Reꞌ Lokꞌ Laj Hu̱j Wilic wi̱ꞌ Ribiral i Jesus",
+      "versionCode": "POHNT",
+      "language": "Poqomchi'",
+      "languageEng": "Poqomchi'",
+      "id": "biblesorg-poh-POHNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Highland Popoluca": [
+    {
+      "title": "Jém jomipɨc trato jém iwatnewɨɨp tánomi Jesucristo",
+      "versionCode": "POINT",
+      "language": "Highland Popoluca",
+      "languageEng": "Highland Popoluca",
+      "id": "biblesorg-poi-POINT",
+      "source": "biblesorg"
+    }
+  ],
+  "Portuguese": [
+    {
+      "title": "Nova Tradução na Linguagem de Hoje",
+      "versionCode": "NTLH",
+      "language": "Português",
+      "languageEng": "Portuguese",
+      "id": "biblesorg-por-NTLH",
+      "source": "biblesorg"
+    }
+  ],
+  "Paranan": [
+    {
+      "title": "En Maganda A Bareta Biblia",
+      "versionCode": "PRFNT",
+      "language": "Paranan",
+      "languageEng": "Paranan",
+      "id": "biblesorg-prf-PRFNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Paicî": [
+    {
+      "title": "Tii Pwicîri: Âmu Aamwari naa na cî",
+      "versionCode": "PRINT",
+      "language": "Paicî",
+      "languageEng": "Paicî",
+      "id": "biblesorg-pri-PRINT",
+      "source": "biblesorg"
+    }
+  ],
+  "K'iche'": [
+    {
+      "title": "Ru Loqꞌ Pixabꞌ Ri Dios",
+      "versionCode": "QUCNNT",
+      "language": "K'iche'",
+      "languageEng": "K'iche'",
+      "id": "biblesorg-quc-QUCNNT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Ru Lokꞌ Pixab Ri Dios",
+      "versionCode": "QUCTNT",
+      "language": "K'iche'",
+      "languageEng": "K'iche'",
+      "id": "biblesorg-quc-QUCTNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: Lambayeque": [
+    {
+      "title": "Mushuq Testamento",
+      "versionCode": "QUFNT",
+      "language": "Quechua: Lambayeque",
+      "languageEng": "Quechua: Lambayeque",
+      "id": "biblesorg-quf-QUFNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: South Bolivian": [
+    {
+      "title": "Dios Parlapawanchej",
+      "versionCode": "QUHNT",
+      "language": "Uralan Buliwya runasimi",
+      "languageEng": "Quechua: South Bolivian",
+      "id": "biblesorg-quh-QUHNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: North Bolivian": [
+    {
+      "title": "Mosoj Testamento",
+      "versionCode": "QULNT",
+      "language": "Quechua: North Bolivian",
+      "languageEng": "Quechua: North Bolivian",
+      "id": "biblesorg-qul-QULNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: Southern Pastaza": [
+    {
+      "title": "Yaya Diospa mushu killkachishkan shimi",
+      "versionCode": "QUPNT",
+      "language": "Quechua: Southern Pastaza",
+      "languageEng": "Quechua: Southern Pastaza",
+      "id": "biblesorg-qup-QUPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: Cajamarca": [
+    {
+      "title": "Mushuq Tistamintu",
+      "versionCode": "QVCNT",
+      "language": "Quechua: Cajamarca",
+      "languageEng": "Quechua: Cajamarca",
+      "id": "biblesorg-qvc-QVCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: Eastern Apurimac": [
+    {
+      "title": "Mosoq Testamento",
+      "versionCode": "QVENT",
+      "language": "Quechua: Eastern Apurimac",
+      "languageEng": "Quechua: Eastern Apurimac",
+      "id": "biblesorg-qve-QVENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: Huamalíes-Dos de Mayo Huánuco": [
+    {
+      "title": "Mushog Testamento",
+      "versionCode": "QVHNT",
+      "language": "Quechua: Huamalíes-Dos de Mayo Huánuco",
+      "languageEng": "Quechua: Huamalíes-Dos de Mayo Huánuco",
+      "id": "biblesorg-qvh-QVHNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: Margos-Yarowilca-Lauricocha": [
+    {
+      "title": "Mushog Testamento",
+      "versionCode": "QVMNT",
+      "language": "Quechua: Margos-Yarowilca-Lauricocha",
+      "languageEng": "Quechua: Margos-Yarowilca-Lauricocha",
+      "id": "biblesorg-qvm-QVMNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: North Junín": [
+    {
+      "title": "Tayta Diospa Guepacag Testamentun",
+      "versionCode": "QVNNT",
+      "language": "Quechua: North Junín",
+      "languageEng": "Quechua: North Junín",
+      "id": "biblesorg-qvn-QVNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: San Martín": [
+    {
+      "title": "Tata Diospa Mushuk Rimanan",
+      "versionCode": "QVSNT",
+      "language": "Quechua: San Martín",
+      "languageEng": "Quechua: San Martín",
+      "id": "biblesorg-qvs-QVSNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: Huaylla Wanca": [
+    {
+      "title": "Muśhü limalicuy",
+      "versionCode": "QVWNT",
+      "language": "Quechua: Huaylla Wanca",
+      "languageEng": "Quechua: Huaylla Wanca",
+      "id": "biblesorg-qvw-QVWNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quicua: Northern Pastaza": [
+    {
+      "title": "Diospa shimi",
+      "versionCode": "QVZNT",
+      "language": "Quicua: Northern Pastaza",
+      "languageEng": "Quicua: Northern Pastaza",
+      "id": "biblesorg-qvz-QVZNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: Huaylas Ancash": [
+    {
+      "title": "Teyta Diospa Mushoq Testamentun",
+      "versionCode": "QWHNT",
+      "language": "Quechua: Huaylas Ancash",
+      "languageEng": "Quechua: Huaylas Ancash",
+      "id": "biblesorg-qwh-QWHNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Quechua: Panao Huánuco": [
+    {
+      "title": "Mushug Testamento",
+      "versionCode": "QXHNT",
+      "language": "Quechua: Panao Huánuco",
+      "languageEng": "Quechua: Panao Huánuco",
+      "id": "biblesorg-qxh-QXHNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Northern Conchucos Ancash Quechua": [
+    {
+      "title": "Señor Jesucristopa alli willacuynin",
+      "versionCode": "QXNNT",
+      "language": "Northern Conchucos Ancash Quechua",
+      "languageEng": "Northern Conchucos Ancash Quechua",
+      "id": "biblesorg-qxn-QXNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Southern Conchucos Ancash Quechua": [
+    {
+      "title": "Mushog Testamento",
+      "versionCode": "QXONT",
+      "language": "Southern Conchucos Ancash Quechua",
+      "languageEng": "Southern Conchucos Ancash Quechua",
+      "id": "biblesorg-qxo-QXONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Rikbaktsa": [
+    {
+      "title": "Deus Harere Aibaky Sesus mymyspirikpoko naha",
+      "versionCode": "RKBNT",
+      "language": "Rikbaktsa",
+      "languageEng": "Rikbaktsa",
+      "id": "biblesorg-rkb-RKBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Buglere": [
+    {
+      "title": "Chube gerua jagere Jesucristo giti degaba kwian ulita alin: El Nuevo Testamento de nuestro Señor Jesucristo en el idioma buglere",
+      "versionCode": "SABNT",
+      "language": "Buglere",
+      "languageEng": "Buglere",
+      "id": "biblesorg-sab-SABNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Secoya": [
+    {
+      "title": "Maija'quë Huajë Ca Nëose'e",
+      "versionCode": "SEYNT",
+      "language": "Secoya",
+      "languageEng": "Secoya",
+      "id": "biblesorg-sey-SEYNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Sursurunga": [
+    {
+      "title": "Hutngin Kamkabat si Klu",
+      "versionCode": "SGZNT",
+      "language": "Sursurunga",
+      "languageEng": "Sursurunga",
+      "id": "biblesorg-sgz-SGZNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Shipibo-Conibo": [
+    {
+      "title": "Diossen joi jatíxonbi onanti joi",
+      "versionCode": "SHPNTPO",
+      "language": "Shipibo-Conibo",
+      "languageEng": "Shipibo-Conibo",
+      "id": "biblesorg-shp-SHPNTPO",
+      "source": "biblesorg"
+    }
+  ],
+  "Epena": [
+    {
+      "title": "Tachi ak'õre pedee",
+      "versionCode": "SJANT",
+      "language": "Epena",
+      "languageEng": "Epena",
+      "id": "biblesorg-sja-SJANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Bolinao": [
+    {
+      "title": "Si Biblia",
+      "versionCode": "SMKNT",
+      "language": "Bolinao",
+      "languageEng": "Bolinao",
+      "id": "biblesorg-smk-SMKNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Siona": [
+    {
+      "title": "Riusu cocabera: mai ëjaguë Jesucristo  ba'iyete toyani jo'case'e'ë",
+      "versionCode": "SNNNT",
+      "language": "Siona",
+      "languageEng": "Siona",
+      "id": "biblesorg-snn-SNNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Spanish": [
+    {
+      "title": "Biblia Reina Valera 1960",
+      "versionCode": "RVR1960",
+      "language": "Español",
+      "languageEng": "Spanish",
+      "id": "biblesorg-spa-RVR1960",
+      "source": "biblesorg"
+    }
+  ],
+  "Sabaot": [
+    {
+      "title": "Biibilya Nyēē Tiliil",
+      "versionCode": "SPYNT",
+      "language": "Kalenjin",
+      "languageEng": "Sabaot",
+      "id": "biblesorg-spy-SPYNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Saramaccan": [
+    {
+      "title": "Gadu Buku",
+      "versionCode": "SRMNT",
+      "language": "Saramaccan",
+      "languageEng": "Saramaccan",
+      "id": "biblesorg-srm-SRMNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Sranan Tongo": [
+    {
+      "title": "Nyun Testamenti",
+      "versionCode": "SRNNT",
+      "language": "Sranan Tongo",
+      "languageEng": "Sranan Tongo",
+      "id": "biblesorg-srn-SRNNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Sirionó": [
+    {
+      "title": "Mbia Cheẽ",
+      "versionCode": "SRQNT",
+      "language": "Sirionó",
+      "languageEng": "Sirionó",
+      "id": "biblesorg-srq-SRQNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Seimat": [
+    {
+      "title": "Kakai Haeu",
+      "versionCode": "SSGNT",
+      "language": "Seimat",
+      "languageEng": "Seimat",
+      "id": "biblesorg-ssg-SSGNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Southeastern Tepehuan": [
+    {
+      "title": "Gu ñio'ki'ñ gu Dios na bhaan tu a'ga guch xoi'kam",
+      "versionCode": "STPNT",
+      "language": "Southeastern Tepehuan",
+      "languageEng": "Southeastern Tepehuan",
+      "id": "biblesorg-stp-STPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Sunwar": [
+    {
+      "title": "परमप्रभु यावे आ लोव़",
+      "versionCode": "SUZBI",
+      "language": "Sunwar",
+      "languageEng": "Sunwar",
+      "id": "biblesorg-suz-SUZBI",
+      "source": "biblesorg"
+    }
+  ],
+  "Suba": [
+    {
+      "title": "Endagano Empia",
+      "versionCode": "SXBNT",
+      "language": "Suba",
+      "languageEng": "Suba",
+      "id": "biblesorg-sxb-SXBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Lowland Tarahumara": [
+    {
+      "title": "Onorúgame nila ra'íchali",
+      "versionCode": "TACNT",
+      "language": "Lowland Tarahumara",
+      "languageEng": "Lowland Tarahumara",
+      "id": "biblesorg-tac-TACNT",
+      "source": "biblesorg"
+    }
+  ],
+  "North Tairora": [
+    {
+      "title": "Qaraaka uva tivatora",
+      "versionCode": "TBGNTPO",
+      "language": "North Tairora",
+      "languageEng": "North Tairora",
+      "id": "biblesorg-tbg-TBGNTPO",
+      "source": "biblesorg"
+    }
+  ],
+  "Tboli": [
+    {
+      "title": "Udél dwata: gna kesfasad ne lomi kesfasad",
+      "versionCode": "TBLNT",
+      "language": "Tboli",
+      "languageEng": "Tboli",
+      "id": "biblesorg-tbl-TBLNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Ticuna": [
+    {
+      "title": "Tupanaarü Ore i Tórü Cori ya Ngechuchu ya Cristuchiga",
+      "versionCode": "TCANT",
+      "language": "Ticuna",
+      "languageEng": "Ticuna",
+      "id": "biblesorg-tca-TCANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Huehuetla Tepehua": [
+    {
+      "title": "Ixchivinti Dios",
+      "versionCode": "TEENT",
+      "language": "Huehuetla Tepehua",
+      "languageEng": "Huehuetla Tepehua",
+      "id": "biblesorg-tee-TEENT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tereno": [
+    {
+      "title": "Emo'u Itukó'oviti",
+      "versionCode": "TERNT",
+      "language": "Tereno",
+      "languageEng": "Tereno",
+      "id": "biblesorg-ter-TERNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Upper Necaxa Totonac": [
+    {
+      "title": "Xasāstiʼ testamento (Xatze tachihuīn ixpālacata Jesucristo)",
+      "versionCode": "TKUNT",
+      "language": "Upper Necaxa Totonac",
+      "languageEng": "Upper Necaxa Totonac",
+      "id": "biblesorg-tku-TKUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tacana": [
+    {
+      "title": "Diusu sa mimi",
+      "versionCode": "TNANT",
+      "language": "Tacana",
+      "languageEng": "Tacana",
+      "id": "biblesorg-tna-TNANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Coyutla Totonac": [
+    {
+      "title": "Xasasti talacaxlan",
+      "versionCode": "TOCNT",
+      "language": "Coyutla Totonac",
+      "languageEng": "Coyutla Totonac",
+      "id": "biblesorg-toc-TOCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tojolabal": [
+    {
+      "title": "Ja yajcʼachil testamento sbaj ja cajualtic Jesucristo",
+      "versionCode": "TOJNT",
+      "language": "Tojolabal",
+      "languageEng": "Tojolabal",
+      "id": "biblesorg-toj-TOJNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Xicotepec De Juárez Totonac": [
+    {
+      "title": "Huan Xasāstiʼ testamento: Huan xatzey tachihuīn ixpālacata Jesucristo",
+      "versionCode": "TOONT",
+      "language": "Xicotepec De Juárez Totonac",
+      "languageEng": "Xicotepec De Juárez Totonac",
+      "id": "biblesorg-too-TOONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Papantla Totonac": [
+    {
+      "title": "Xasasti talaccaxlan",
+      "versionCode": "TOPNT",
+      "language": "Papantla Totonac",
+      "languageEng": "Papantla Totonac",
+      "id": "biblesorg-top-TOPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Highland Totonac": [
+    {
+      "title": "Hua̱ xasa̱sti talacca̱xlan quinTla̱tican Jesucristo",
+      "versionCode": "TOSNT",
+      "language": "Highland Totonac",
+      "languageEng": "Highland Totonac",
+      "id": "biblesorg-tos-TOSNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tlachichilco Tepehua": [
+    {
+      "title": "Ixchivinti Dios: ni sastʼi chivinti yu Dios jatʼatamakaul ixlapanakni laka lhimasipijni",
+      "versionCode": "TPTNT",
+      "language": "Tlachichilco Tepehua",
+      "languageEng": "Tlachichilco Tepehua",
+      "id": "biblesorg-tpt-TPTNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Copala Triqui": [
+    {
+      "title": "Se-nānā Diosē nanā sāʼ me rá catūū nimán níʼ a",
+      "versionCode": "TRCNT",
+      "language": "Copala Triqui",
+      "languageEng": "Copala Triqui",
+      "id": "biblesorg-trc-TRCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tsishingini": [
+    {
+      "title": "Nzuwulai n Sa'avu na̱ Tsishingini na̱ a̱ɗiva̱ a na a ɗangulai a Nzuwulai mu Ufaru",
+      "versionCode": "TSWNT",
+      "language": "Tsishingini",
+      "languageEng": "Tsishingini",
+      "id": "biblesorg-tsw-TSWNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tektiteko": [
+    {
+      "title": "Te akʼaʼj tuʼjal tuj tuʼjal qtata Dios",
+      "versionCode": "TTCNT",
+      "language": "Tektiteko",
+      "languageEng": "Tektiteko",
+      "id": "biblesorg-ttc-TTCNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mutu": [
+    {
+      "title": "Maaron Saveeŋ Tooni Patabuyaaŋ",
+      "versionCode": "TUCTNT",
+      "language": "Mutu",
+      "languageEng": "Mutu",
+      "id": "biblesorg-tuc-TUCNT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Maaron Saveeŋ Toni Patabuaŋ",
+      "versionCode": "TUCONT",
+      "language": "Mutu",
+      "languageEng": "Mutu",
+      "id": "biblesorg-tuc-TUCONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tucano": [
+    {
+      "title": "Õ'âkĩ̶ hɨ yeere uúkũri turi Tukano",
+      "versionCode": "TUONT",
+      "language": "Tucano",
+      "languageEng": "Tucano",
+      "id": "biblesorg-tuo-TUONT",
+      "source": "biblesorg"
+    }
+  ],
+  "Kayapó": [
+    {
+      "title": "Metĩndjwỳnh Kute Memã Kabẽn Ny Jarẽnh",
+      "versionCode": "TXUNT",
+      "language": "Kayapó",
+      "languageEng": "Kayapó",
+      "id": "biblesorg-txu-TXUNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tz'utujil": [
+    {
+      "title": "Cꞌacꞌ Chuminem",
+      "versionCode": "TZJNT",
+      "language": "Tz'utujil",
+      "languageEng": "Tz'utujil",
+      "id": "biblesorg-tzj-TZJNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Tzotzil": [
+    {
+      "title": "Jaʼ ti achʼ Testamento: jaʼ scʼopilal ti Jesucristoe jaʼ ti Jcoltavanej cuʼuntique (El Nuevo Testamento de nuestro señor Jesucristo en Tzotzil de Huixtán)",
+      "versionCode": "TZONT",
+      "language": "Tzotzil",
+      "languageEng": "Tzotzil",
+      "id": "biblesorg-tzo-TZONT",
+      "source": "biblesorg"
+    },
+    {
+      "title": "Sc'op riox: ja' li' yaloj ti chac' jcuxlejaltic ta sbatel osli ti cajvaltic Jesucristoe",
+      "versionCode": "TZOZNT",
+      "language": "Tzotzil",
+      "languageEng": "Tzotzil",
+      "id": "biblesorg-tzo-TZOZNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Urarina": [
+    {
+      "title": "Cana Coaunera Ere",
+      "versionCode": "URANT",
+      "language": "Urarina",
+      "languageEng": "Urarina",
+      "id": "biblesorg-ura-URANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Kaapor": [
+    {
+      "title": "Tupã Je'ẽha",
+      "versionCode": "URBNT",
+      "language": "Kaapor",
+      "languageEng": "Kaapor",
+      "id": "biblesorg-urb-URBNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Uspanteco": [
+    {
+      "title": "Lok'laj Jyolj Kakaj Dios",
+      "versionCode": "USPNT",
+      "language": "Uspanteco",
+      "languageEng": "Uspanteco",
+      "id": "biblesorg-usp-USPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Ayautla Mazatec": [
+    {
+      "title": "El Nuevo Testamento Mazateco de Ayautla",
+      "versionCode": "VMYNT",
+      "language": "Ayautla Mazatec",
+      "languageEng": "Ayautla Mazatec",
+      "id": "biblesorg-vmy-VMYNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Wapishana": [
+    {
+      "title": "Kaimana'o Tominkaru Paradan",
+      "versionCode": "WAPNT",
+      "language": "Wapishana",
+      "languageEng": "Wapishana",
+      "id": "biblesorg-wap-WAPNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Xavánte": [
+    {
+      "title": "'Re ĩhâimana u'âsi mono zadawa wasu'u",
+      "versionCode": "XAVNT",
+      "language": "Xavánte",
+      "languageEng": "Xavánte",
+      "id": "biblesorg-xav-XAVNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Diuxi-Tilantongo": [
+    {
+      "title": "Tnuʼu vaʼa tnuʼu Jesucristo",
+      "versionCode": "XTDNT",
+      "language": "Mixtec: Diuxi-Tilantongo",
+      "languageEng": "Mixtec: Diuxi-Tilantongo",
+      "id": "biblesorg-xtd-XTDNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Mixtec: Magdalena Peñasco": [
+    {
+      "title": "Tnu'u vii tnu'u va'a Su'si ma",
+      "versionCode": "XTMNTPP",
+      "language": "Mixtec: Magdalena Peñasco",
+      "languageEng": "Mixtec: Magdalena Peñasco",
+      "id": "biblesorg-xtm-XTMNTPP",
+      "source": "biblesorg"
+    }
+  ],
+  "Yaminahua": [
+    {
+      "title": "Niospa meka fena Jesucristoõnoa",
+      "versionCode": "YAANT",
+      "language": "Yaminahua",
+      "languageEng": "Yaminahua",
+      "id": "biblesorg-yaa-YAANT",
+      "source": "biblesorg"
+    }
+  ],
+  "Yagua": [
+    {
+      "title": "Ju̱denu jto̱ nijya̱nvamyu",
+      "versionCode": "YADNT",
+      "language": "Yagua",
+      "languageEng": "Yagua",
+      "id": "biblesorg-yad-YADNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Yaqui": [
+    {
+      "title": "Yoʼowe Jesukrijtota itom yaʼariakaʼu betchiʼbo juʼu bemelaka liojta betana lutuʼuria yaʼari (El Nuevo Testamento en yaqui)",
+      "versionCode": "YAQNT",
+      "language": "Yaqui",
+      "languageEng": "Yaqui",
+      "id": "biblesorg-yaq-YAQNT",
+      "source": "biblesorg"
+    }
+  ],
+  "Yopno": [
+    {
+      "title": "Piŋkop Gen",
+      "versionCode": "YUTNT",
+      "language": "Yopno",
+      "languageEng": "Yopno",
+      "id": "biblesorg-yut-YUTNT",
+      "source": "biblesorg"
+    }
+  ]
+}

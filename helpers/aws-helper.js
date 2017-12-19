@@ -100,6 +100,8 @@ helper.createSong = function (fields) {
       'bible_version': fields.version,
       'labels': fields.labels,
       'user': fields.user,
+      'title': fields.title,
+      'featuredArtists': fields.featuredArtists,
       'key': fields.key
     }
   }
@@ -174,7 +176,6 @@ helper.createSongsTable = function () {
         console.log(err)
         rej(JSON.stringify(err, undefined, 2))
       } else {
-        console.log(data)
         res(JSON.stringify(data, undefined, 2))
       }
     })

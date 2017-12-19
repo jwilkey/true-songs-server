@@ -38,11 +38,11 @@ router.get('/google/callback', passport.authenticate('google', {
 }))
 
 router.get('/success', (req, res) => {
-  res.redirect(`${process.env.CLIENT_ROOT}/#/login`);
+  res.redirect(`${process.env.CLIENT_ROOT}/#/login`)
 })
 
 router.get('/failure', (req, res) => {
-  res.redirect(process.env.CLIENT_ROOT);
+  res.redirect(process.env.CLIENT_ROOT)
 })
 
-module.exports = router;
+module.exports = router
