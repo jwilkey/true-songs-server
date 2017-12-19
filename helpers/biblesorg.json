@@ -65,22 +65,6 @@
       "source": "biblesorg"
     },
     {
-      "title": "King James Version with Apocrypha, American Edition",
-      "versionCode": "KJVA",
-      "language": "English (US)",
-      "languageEng": "English",
-      "id": "biblesorg-eng-KJVA",
-      "source": "biblesorg"
-    },
-    {
-      "title": "The Message",
-      "versionCode": "MSG",
-      "language": "English (US)",
-      "languageEng": "English",
-      "id": "biblesorg-eng-MSG",
-      "source": "biblesorg"
-    },
-    {
       "title": "New American Standard Bible",
       "versionCode": "NASB",
       "language": "English (US)",
