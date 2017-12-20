@@ -4,7 +4,8 @@ const dbtService = require('../helpers/dbt_service.js')
 const biblesorgService = require('../helpers/biblesorg-service.js')
 
 router.get('/versions', (req, res, next) => {
-  res.json(biblesorgService.versions())
+  const versions = require('../helpers/versions/versions.json')
+  res.json(versions)
 })
 
 router.get('/text/:id', (req, res, next) => {
@@ -27,6 +28,8 @@ router.get('/text/:id', (req, res, next) => {
       console.error(err)
       res.sendStatus(500)
     })
+  } else if (parts[0] === 'variant') {
+    res.json({text: 'Bible text not currently available'})
   } else {
     res.sendStatus(404)
   }

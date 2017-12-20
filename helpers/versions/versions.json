@@ -49,7 +49,7 @@
       "source": "biblesorg"
     },
     {
-      "title": "Good News Translation (US Version)",
+      "title": "Good News Translation",
       "versionCode": "GNTD",
       "language": "English (US)",
       "languageEng": "English",
@@ -59,7 +59,7 @@
     {
       "title": "King James Version",
       "versionCode": "KJV",
-      "language": "English (British)",
+      "language": "English",
       "languageEng": "English",
       "id": "biblesorg-eng-KJV",
       "source": "biblesorg"
@@ -71,6 +71,22 @@
       "languageEng": "English",
       "id": "biblesorg-eng-NASB",
       "source": "biblesorg"
+    },
+    {
+      "title": "New International Version",
+      "versionCode": "NIV",
+      "language": "English",
+      "languageEng": "English",
+      "id": "variant-NIV",
+      "source": "variant"
+    },
+    {
+      "title": "New King James Version",
+      "versionCode": "NKJV",
+      "language": "English",
+      "languageEng": "English",
+      "id": "variant-NKJV",
+      "source": "variant"
     }
   ],
   "Arifama-Miniafia": [

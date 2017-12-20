@@ -1,0 +1,20 @@
+{
+  "English": [
+    {
+      "title": "New International Version",
+      "versionCode": "NIV",
+      "language": "English",
+      "languageEng": "English",
+      "id": "variant-NIV",
+      "source": "variant"
+    },
+    {
+      "title": "New King James Version",
+      "versionCode": "NKJV",
+      "language": "English",
+      "languageEng": "English",
+      "id": "variant-NKJV",
+      "source": "variant"
+    }
+  ]
+}

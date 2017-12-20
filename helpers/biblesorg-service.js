@@ -3,7 +3,7 @@ const baseUrl = `https://${key}@bibles.org/v2/passages.js`
 
 const service = {
   versions: function () {
-    const versions = require('./biblesorg.json')
+    const versions = require('./versions/biblesorg.json')
     return versions
   },
   fetch (bibleId, osis) {
