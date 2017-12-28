@@ -92,6 +92,16 @@ router.post('/songs/upload', (req, res, next) => {
   req.pipe(busboy)
 })
 
+router.post('/songs/update', (req, res, next) => {
+  awsHelper.updateSong(req.body.song, req.body.updates)
+  .then(response => {
+    res.json(response)
+  })
+  .catch(err => {
+    res.status(500).send(err)
+  })
+})
+
 // router.get('/db/initialize', (req, res, next) => {
 //   awsHelper.createSongsTable()
 //   .then(response => {

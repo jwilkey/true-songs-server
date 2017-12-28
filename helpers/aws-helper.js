@@ -116,6 +116,41 @@ helper.createSong = function (fields) {
   })
 }
 
+helper.updateSong = function (song, updates) {
+  configureDynamoDb()
+
+  var setExpressions = []
+  var removeExpressions = []
+  updates.title ? setExpressions.push('title = :t') : removeExpressions.push('title')
+  updates.featuredArtists ? setExpressions.push('featuredArtists = :f') : removeExpressions.push('featuredArtists')
+  var params = {
+    TableName: 'Songs',
+    Key: { passage: song.passage, uploadedAt: song.uploadedAt },
+    UpdateExpression: `set bible_version = :v, artist = :a, labels = :l, ${setExpressions.join(', ')}${removeExpressions.length ? ' REMOVE ' : ''}${removeExpressions.join(', ')}`,
+    ExpressionAttributeValues: {
+      ':v': JSON.stringify(updates.version),
+      ':a': updates.artist,
+      ':l': JSON.stringify(updates.labels)
+    },
+    ReturnValues:'ALL_NEW'
+  }
+  if (updates.title) {
+    params.ExpressionAttributeValues[':t'] = updates.title
+  }
+  if (updates.featuredArtists) {
+    params.ExpressionAttributeValues[':f'] = updates.featuredArtists
+  }
+
+  return new Promise((resolve, reject) => {
+    var docClient = new AWS.DynamoDB.DocumentClient()
+    docClient.update(params, function(err, data) {
+      err
+      ? reject(`Unable to update item: ${JSON.stringify(err)}`)
+      : resolve(data.Attributes)
+    })
+  })
+}
+
 helper.deleteSong = function (passage, uploadedAt, key, userId) {
   configureDynamoDb()
 
