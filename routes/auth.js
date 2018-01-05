@@ -3,9 +3,12 @@ var router = express.Router();
 var passport = require('passport')
 var GoogleStrategy = require('passport-google-oauth').OAuth2Strategy
 var GoogleTokenStrategy = require('passport-google-token').Strategy
+var FacebookStrategy = require('passport-facebook').Strategy
 
 const GOOGLE_CLIENT_ID = process.env.GOOGLE_CLIENT_ID
 const GOOGLE_CLIENT_SECRET = process.env.GOOGLE_CLIENT_SECRET
+const FACEBOOK_APP_ID = process.env.FACEBOOK_APP_ID
+const FACEBOOK_APP_SECRET = process.env.FACEBOOK_APP_SECRET
 
 function buildGoogleUser (accessToken, refreshToken, profile, done) {
   const user = {
@@ -41,6 +44,22 @@ passport.use(new GoogleTokenStrategy({
   callbackURL: `${process.env.HOSTNAME}/auth/google/callback`
 }, buildGoogleUserFromToken))
 
+passport.use(new FacebookStrategy({
+    clientID: FACEBOOK_APP_ID,
+    clientSecret: FACEBOOK_APP_SECRET,
+    callbackURL: `${process.env.HOSTNAME}/auth/facebook/callback`,
+    profileFields: ['id', 'name', 'picture.type(large)', 'emails', 'displayName', 'about', 'gender']
+  },
+  (accessToken, refreshToken, profile, done) => {
+    done(null, {
+      id: `facebook-${profile.id}`,
+      name: profile.displayName,
+      image: (profile.photos[0] || {}).value,
+      source: 'facebook'
+    })
+  }
+))
+
 passport.serializeUser((user, done) => {
   done(null, user)
 })
@@ -56,6 +75,9 @@ const authenticatedOptions = {
 router.get('/google', passport.authenticate('google', { scope: ['profile', 'email'] }))
 router.get('/google/callback', passport.authenticate('google', authenticatedOptions))
 router.post('/google/token', passport.authenticate('google-token', authenticatedOptions))
+
+router.get('/facebook', passport.authenticate('facebook'))
+router.get('/facebook/callback', passport.authenticate('facebook', authenticatedOptions))
 
 router.get('/success', (req, res) => {
   res.redirect(`${process.env.CLIENT_ROOT}/#/login`)
