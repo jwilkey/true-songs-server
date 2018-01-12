@@ -1,4 +1,4 @@
-const key = 'IklW6N43QDF4FHWLFsks0djEFjAMMEKfLrtghpRu:X'
+const key = `${process.env.BIBLES_ORG_KEY}:X`
 const baseUrl = `https://${key}@bibles.org/v2/passages.js`
 
 const service = {
