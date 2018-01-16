@@ -1,5 +1,6 @@
-var express = require('express');
-var router = express.Router();
+var express = require('express')
+const bodyParser = require('body-parser')
+var router = express.Router()
 var passport = require('passport')
 var GoogleStrategy = require('passport-google-oauth').OAuth2Strategy
 var GoogleTokenStrategy = require('passport-google-token').Strategy
@@ -24,9 +25,9 @@ function buildGoogleUser (accessToken, refreshToken, profile, done) {
 function buildGoogleUserFromToken (accessToken, refreshToken, profile, done) {
   const user = {
     id: `google-${profile.id}`,
-    name: profile.name,
-    email: profile.email,
-    image: profile.picture,
+    name: profile._json.name,
+    email: profile._json.email,
+    image: profile._json.picture,
     source: 'google'
   }
   done(null, user)
@@ -74,7 +75,7 @@ const authenticatedOptions = {
 
 router.get('/google', passport.authenticate('google', { scope: ['profile', 'email'] }))
 router.get('/google/callback', passport.authenticate('google', authenticatedOptions))
-router.post('/google/token', passport.authenticate('google-token', authenticatedOptions))
+router.post('/google/token', bodyParser.urlencoded({ extended: true }), passport.authenticate('google-token', authenticatedOptions))
 
 router.get('/facebook', passport.authenticate('facebook'))
 router.get('/facebook/callback', passport.authenticate('facebook', authenticatedOptions))
