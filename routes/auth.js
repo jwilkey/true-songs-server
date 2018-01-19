@@ -68,20 +68,26 @@ passport.deserializeUser((user, done) => {
   done(null, user)
 })
 
-const authenticatedOptions = {
-  successRedirect: '/auth/success',
-  failureRedirect: '/auth/failure'
+function authenticatedOptions (quiet) {
+  return {
+    successRedirect: `/auth/success?quiet=${quiet}`,
+    failureRedirect: '/auth/failure'
+  }
 }
 
 router.get('/google', passport.authenticate('google', { scope: ['profile', 'email'] }))
-router.get('/google/callback', passport.authenticate('google', authenticatedOptions))
-router.post('/google/token', bodyParser.urlencoded({ extended: true }), passport.authenticate('google-token', authenticatedOptions))
+router.get('/google/callback', passport.authenticate('google', authenticatedOptions(false)))
+router.post('/google/token', passport.authenticate('google-token', authenticatedOptions(true)))
 
 router.get('/facebook', passport.authenticate('facebook'))
-router.get('/facebook/callback', passport.authenticate('facebook', authenticatedOptions))
+router.get('/facebook/callback', passport.authenticate('facebook', authenticatedOptions(false)))
 
 router.get('/success', (req, res) => {
-  res.redirect(`${process.env.CLIENT_ROOT}/#/login`)
+  if (req.query.quiet === 'true') {
+    res.json({authenticated: true})
+  } else {
+    res.redirect(`${process.env.CLIENT_ROOT}/#/login`)
+  }
 })
 
 router.get('/failure', (req, res) => {
