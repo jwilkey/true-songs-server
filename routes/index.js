@@ -13,7 +13,7 @@ router.get('/', (req, res, next) => {
 })
 
 router.get('/user', (req, res) => {
-  res.json(req.user)
+  req.user ? res.json(req.user) : res.status(401).send('Not authentitcated')
 })
 
 router.get('/songs', (req, res, next) => {
