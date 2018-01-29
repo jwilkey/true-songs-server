@@ -1,10 +1,12 @@
 var express = require('express')
-const bodyParser = require('body-parser')
 var router = express.Router()
-var passport = require('passport')
-var GoogleStrategy = require('passport-google-oauth').OAuth2Strategy
-var GoogleTokenStrategy = require('passport-google-token').Strategy
-var FacebookStrategy = require('passport-facebook').Strategy
+const bodyParser = require('body-parser')
+const cookieSignature = require('cookie-signature')
+const passport = require('passport')
+const GoogleStrategy = require('passport-google-oauth').OAuth2Strategy
+const GoogleTokenStrategy = require('passport-google-token').Strategy
+const FacebookStrategy = require('passport-facebook').Strategy
+const FacebookTokenStrategy = require('passport-facebook-token')
 
 const GOOGLE_CLIENT_ID = process.env.GOOGLE_CLIENT_ID
 const GOOGLE_CLIENT_SECRET = process.env.GOOGLE_CLIENT_SECRET
@@ -33,6 +35,15 @@ function buildGoogleUserFromToken (accessToken, refreshToken, profile, done) {
   done(null, user)
 }
 
+function buildFacebookUser (accessToken, refreshToken, profile, done) {
+  done(null, {
+    id: `facebook-${profile.id}`,
+    name: profile.displayName,
+    image: (profile.photos[0] || {}).value,
+    source: 'facebook'
+  })
+}
+
 passport.use(new GoogleStrategy({
   clientID: GOOGLE_CLIENT_ID,
   clientSecret: GOOGLE_CLIENT_SECRET,
@@ -50,16 +61,12 @@ passport.use(new FacebookStrategy({
     clientSecret: FACEBOOK_APP_SECRET,
     callbackURL: `${process.env.HOSTNAME}/auth/facebook/callback`,
     profileFields: ['id', 'name', 'picture.type(large)', 'emails', 'displayName', 'about', 'gender']
-  },
-  (accessToken, refreshToken, profile, done) => {
-    done(null, {
-      id: `facebook-${profile.id}`,
-      name: profile.displayName,
-      image: (profile.photos[0] || {}).value,
-      source: 'facebook'
-    })
-  }
-))
+  }, buildFacebookUser))
+
+passport.use(new FacebookTokenStrategy({
+    clientID: FACEBOOK_APP_ID,
+    clientSecret: FACEBOOK_APP_SECRET
+  }, buildFacebookUser))
 
 passport.serializeUser((user, done) => {
   done(null, user)
@@ -81,6 +88,13 @@ router.post('/google/token', passport.authenticate('google-token', authenticated
 
 router.get('/facebook', passport.authenticate('facebook'))
 router.get('/facebook/callback', passport.authenticate('facebook', authenticatedOptions(false)))
+router.post('/facebook/token', passport.authenticate('facebook-token'), (req, res) => {
+  if (req.user) {
+    res.json(req.user)
+  } else {
+    res.status(401).send('Not Facebook Authorized')
+  }
+})
 
 router.get('/success', (req, res) => {
   if (req.query.quiet === 'true') {
