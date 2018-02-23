@@ -82,6 +82,11 @@ function authenticatedOptions (quiet) {
   }
 }
 
+router.get('/logout', (req, res) => {
+  req.logout()
+  res.json({logout: true})
+})
+
 router.get('/google', passport.authenticate('google', { scope: ['profile', 'email'] }))
 router.get('/google/callback', passport.authenticate('google', authenticatedOptions(false)))
 router.post('/google/token', passport.authenticate('google-token', authenticatedOptions(true)))
