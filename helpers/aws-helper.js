@@ -102,6 +102,7 @@ helper.createSong = function (fields) {
       'user': fields.user,
       'title': fields.title,
       'featuredArtists': fields.featuredArtists,
+      'releaseDate': fields.releaseDate,
       'key': fields.key
     }
   }
@@ -123,6 +124,7 @@ helper.updateSong = function (song, updates) {
   var removeExpressions = []
   updates.title ? setExpressions.push('title = :t') : removeExpressions.push('title')
   updates.featuredArtists ? setExpressions.push('featuredArtists = :f') : removeExpressions.push('featuredArtists')
+  updates.releaseDate ? setExpressions.push('releaseDate = :rd') : removeExpressions.push('releaseDate')
   var params = {
     TableName: 'Songs',
     Key: { passage: song.passage, uploadedAt: song.uploadedAt },
@@ -139,6 +141,9 @@ helper.updateSong = function (song, updates) {
   }
   if (updates.featuredArtists) {
     params.ExpressionAttributeValues[':f'] = updates.featuredArtists
+  }
+  if (updates.releaseDdate) {
+    params.ExpressionAttributeValues[':rd'] = updates.releaseDate
   }
 
   return new Promise((resolve, reject) => {
